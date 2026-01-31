@@ -1,0 +1,143 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/zagreb tiles/playable area/PlayScene2Perfromant.unity
+    guid: 8aac8e6fedee54047bf037cdd4678c89
+  - enabled: 0
+    path: Assets/Scenes/zagreb tiles/tile_0_0.unity
+    guid: 6d9be1697297e1440a3cd2481faadd00
+  - enabled: 0
+    path: Assets/Scenes/zagreb tiles/tile_0_1.unity
+    guid: bf5c20849163b664ab80e97936d8641e
+  - enabled: 0
+    path: Assets/Scenes/zagreb tiles/tile_0_2.unity
+    guid: d7dbbb164ed50cf4bba5a34cccb532f1
+  - enabled: 0
+    path: Assets/Scenes/zagreb tiles/tile_0_3.unity
+    guid: 81c1a790c1633654fbdc25f31b951947
+  - enabled: 0
+    path: Assets/Scenes/zagreb tiles/tile_0_4.unity
+    guid: a78fc4a9ea2c2064187a1c314bf5f653
+  - enabled: 0
+    path: Assets/Scenes/zagreb tiles/tile_0_5.unity
+    guid: 9035167b9dc93df4cb24fada59d8e85e
+  - enabled: 0
+    path: Assets/Scenes/zagreb tiles/tile_0_6.unity
+    guid: b08cab8ddaa6abd4d9498982424850ef
+  - enabled: 0
+    path: Assets/Scenes/zagreb tiles/tile_0_7.unity
+    guid: 0781aaf8a38a7294299bbe3780c8203a
+  - enabled: 0
+    path: Assets/Scenes/zagreb tiles/tile_0_8.unity
+    guid: 9a5e995b25d7e7146b6917ca5f5a7e4e
+  - enabled: 0
+    path: Assets/Scenes/zagreb tiles/tile_0_9.unity
+    guid: 28d23adc938b94e4dad5b4b1e192d01b
+  - enabled: 0
+    path: Assets/Scenes/zagreb tiles/tile_0_10.unity
+    guid: f609695aa429d6f43a68bc9ed4f6fcdd
+  - enabled: 0
+    path: Assets/Scenes/zagreb tiles/tile_0_11.unity
+    guid: bb676d40f15d30f42b12a6d5c9eedca2
+  - enabled: 0
+    path: Assets/Scenes/zagreb tiles/tile_1_0.unity
+    guid: 2f5a8bd5a6810464a8e36f50c3959549
+  - enabled: 0
+    path: Assets/Scenes/zagreb tiles/tile_1_1.unity
+    guid: f15fed1bf11e48540aa690165b3d965b
+  - enabled: 0
+    path: Assets/Scenes/zagreb tiles/tile_1_2.unity
+    guid: 4e7f2bee84fd50943813a4c9a5426296
+  - enabled: 0
+    path: Assets/Scenes/zagreb tiles/tile_1_3.unity
+    guid: d2a25af810be04d43a50e36982ca7396
+  - enabled: 0
+    path: Assets/Scenes/zagreb tiles/tile_1_4.unity
+    guid: 7690999d1eebd9742b44c996248c0a6e
+  - enabled: 0
+    path: Assets/Scenes/zagreb tiles/tile_1_5.unity
+    guid: 1032a69e0354fa84d99e03a5eaad0141
+  - enabled: 0
+    path: Assets/Scenes/zagreb tiles/tile_1_6.unity
+    guid: 75a6af71c4310014aa49ea83c374da6d
+  - enabled: 0
+    path: Assets/Scenes/zagreb tiles/tile_1_7.unity
+    guid: 80d2c0e5fb2e97a4da57076be21d8f8f
+  - enabled: 0
+    path: Assets/Scenes/zagreb tiles/tile_1_8.unity
+    guid: 6d1998bb1e660a648be014e0dce08f12
+  - enabled: 0
+    path: Assets/Scenes/zagreb tiles/tile_1_9.unity
+    guid: ae26c6894d867734b9ce5f164c334d48
+  - enabled: 0
+    path: Assets/Scenes/zagreb tiles/tile_1_10.unity
+    guid: d8f105c29ee295d4e91034bc772992d1
+  - enabled: 0
+    path: Assets/Scenes/zagreb tiles/tile_1_11.unity
+    guid: 4c40314256763c64881070296eeae107
+  - enabled: 0
+    path: Assets/Scenes/zagreb tiles/tile_2_0.unity
+    guid: 5aabe52f5ea6ae84e90a8566d9e287c7
+  - enabled: 0
+    path: Assets/Scenes/zagreb tiles/tile_2_1.unity
+    guid: 274bba4ab68e42e479a683666e7c3dbd
+  - enabled: 0
+    path: Assets/Scenes/zagreb tiles/tile_2_2.unity
+    guid: be89bc183a2af20409813a2429d1e045
+  - enabled: 0
+    path: Assets/Scenes/zagreb tiles/tile_2_3.unity
+    guid: c35525b15e257bf45acec3038af23b33
+  - enabled: 0
+    path: Assets/Scenes/zagreb tiles/tile_2_4.unity
+    guid: bc478a4e344a40443a1848355efea6da
+  - enabled: 0
+    path: Assets/Scenes/zagreb tiles/tile_2_5.unity
+    guid: 7d044ea08e562424798eec106d3175fb
+  - enabled: 0
+    path: Assets/Scenes/zagreb tiles/tile_2_6.unity
+    guid: 8309ece566085d04d9920da9b9d79fdb
+  - enabled: 0
+    path: Assets/Scenes/zagreb tiles/tile_2_7.unity
+    guid: 0b13bc43f4cdccd449348ac55fed87af
+  - enabled: 0
+    path: Assets/Scenes/zagreb tiles/tile_2_8.unity
+    guid: 3c3f82f25de77e6489859e263e3b6102
+  - enabled: 0
+    path: Assets/Scenes/zagreb tiles/tile_2_9.unity
+    guid: 7c12e068dc2d1d44b999a4422a9074f3
+  - enabled: 0
+    path: Assets/Scenes/zagreb tiles/tile_2_10.unity
+    guid: 250f6307b8e0c5444a87d7a09f23e9d8
+  - enabled: 0
+    path: Assets/Scenes/zagreb tiles/tile_2_11.unity
+    guid: 84a276ea46f5a664c8594de2c03f68a3
+  - enabled: 0
+    path: Assets/Scenes/zagreb tiles/tile_3_0.unity
+    guid: 922b5aec956d277479803cb3a4772bf7
+  - enabled: 0
+    path: Assets/Scenes/zagreb tiles/tile_3_1.unity
+    guid: 1ba8d03c66def6a44b9235a7e2d334bd
+  - enabled: 0
+    path: Assets/Scenes/zagreb tiles/tile_3_2.unity
+    guid: 2fb3a0f19d00104449570bcfd1474ce3
+  - enabled: 0
+    path: Assets/Scenes/zagreb tiles/tile_3_3.unity
+    guid: 3499e5d7a0be2d748972f60a696913ea
+  - enabled: 0
+    path: Assets/Scenes/zagreb tiles/tile_3_4.unity
+    guid: 9ced40ff6214eeb49bfb999926a60fd4
+  - enabled: 0
+    path: Assets/Scenes/zagreb tiles/tile_3_5.unity
+    guid: 0429452b97e654b40a59949435ef8550
+  m_configObjects:
+    com.unity.addressableassets: {fileID: 11400000, guid: 41f37f191f9316447a1fab3823e569e8,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: fd2f2ade17e7e0542a9907a282279065,
+      type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: cf755df76a45d7a4c9255ab990327efa,
+      type: 2}

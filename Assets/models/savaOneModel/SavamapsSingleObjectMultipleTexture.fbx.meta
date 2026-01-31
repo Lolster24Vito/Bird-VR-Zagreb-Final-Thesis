@@ -1,0 +1,1309 @@
+fileFormatVersion: 2
+guid: 4f72432b8b85fd740975c1d94dea7b1b
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: savaModel-00000-texture
+    second: {fileID: 2800000, guid: 9f8a47a93f4d809498b7469ba9fa421b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: savaModel-00001-texture
+    second: {fileID: 2800000, guid: a7a48f39a18f30141ac2e80d2c1d3dbc, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: savaModel-00002-texture
+    second: {fileID: 2800000, guid: e57c5f4c434dd4044bc2e33d3584386c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: savaModel-00003-texture
+    second: {fileID: 2800000, guid: 9cbd523ebea46d847908851e3e4ba881, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: savaModel-00004-texture
+    second: {fileID: 2800000, guid: 350846ed294183a41ad84a954e0f663e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: savaModel-00005-texture
+    second: {fileID: 2800000, guid: c1474ead70f5e194ea4cba51083ef6dd, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: savaModel-00006-texture
+    second: {fileID: 2800000, guid: ecc8d6c7e6c9a4e4f805aa56c9c4c81c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: savaModel-00007-texture
+    second: {fileID: 2800000, guid: 09632b904eeb8034f9442dd96c4377de, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: savaModel-00008-texture
+    second: {fileID: 2800000, guid: ebad923684bc46f468983e5890e446db, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: savaModel-00009-texture
+    second: {fileID: 2800000, guid: 02525ffa5f6fd9046b2f6a13521cc6aa, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: savaModel-00010-texture
+    second: {fileID: 2800000, guid: ba14ff3ca054efa48aa473aa11ea0318, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: savaModel-00011-texture
+    second: {fileID: 2800000, guid: f71d0da23b246bb4aa2daed388dad671, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: savaModel-00012-texture
+    second: {fileID: 2800000, guid: 411676339e2f179418a74d097596f883, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: savaModel-00013-texture
+    second: {fileID: 2800000, guid: 229f4d3152ac4974b9d3306b01c0319e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: savaModel-00014-texture
+    second: {fileID: 2800000, guid: 5bec2e0388fdd5141964b91ba73d4806, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: savaModel-00015-texture
+    second: {fileID: 2800000, guid: 91ac4211b8a526643a72df483bccdf0c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: savaModel-00016-texture
+    second: {fileID: 2800000, guid: 97bcad1f4410c23479fefb6c41c2acdc, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: savaModel-00017-texture
+    second: {fileID: 2800000, guid: edc422bf29e890c44a27a26a2450065f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: savaModel-00018-texture
+    second: {fileID: 2800000, guid: 6616e719e82ef65429781fafd076f100, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: savaModel-00019-texture
+    second: {fileID: 2800000, guid: 37791436c90485847a07c9639a54a50e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: savaModel-00020-texture
+    second: {fileID: 2800000, guid: 903fd5b8429abca49b845d42eeddd3e4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: savaModel-00021-texture
+    second: {fileID: 2800000, guid: da63b4b1ffca170438f1992e93c17e9a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: savaModel-00022-texture
+    second: {fileID: 2800000, guid: 4e7c80c55c5af2a45855cdbbb3544c12, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: savaModel-00023-texture
+    second: {fileID: 2800000, guid: 51be1b63681e1d94f8b58b0d37a74ad3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: savaModel-00024-texture
+    second: {fileID: 2800000, guid: e667df1b9c8dcda4c885faafe82fe379, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: savaModel-00025-texture
+    second: {fileID: 2800000, guid: 697561021aa940e488d7388ff19f1949, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: savaModel-00026-texture
+    second: {fileID: 2800000, guid: 17f0fce460bfbb249a8d2db9c5eb663e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: savaModel-00027-texture
+    second: {fileID: 2800000, guid: ce10ee05886cc334489dc278541157c4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: savaModel-00028-texture
+    second: {fileID: 2800000, guid: 02a789d7e5bea1a44a71241a34291b0c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: savaModel-00029-texture
+    second: {fileID: 2800000, guid: 38991b72e66b40943aef699474d06ff6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: savaModel-00030-texture
+    second: {fileID: 2800000, guid: 236c9b9c4c232cf49ab6ab8149273caa, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: savaModel-00031-texture
+    second: {fileID: 2800000, guid: 9fdd18a66c912d04eb2b407bd9545353, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: savaModel-00032-texture
+    second: {fileID: 2800000, guid: 58eb351357aea3d4fadae1b09e810f53, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: savaModel-00033-texture
+    second: {fileID: 2800000, guid: 40e246369cbd7594897fd8e467855988, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: savaModel-00034-texture
+    second: {fileID: 2800000, guid: 0a8e2c95446d0fd4cb67f66bf7b32151, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: savaModel-00035-texture
+    second: {fileID: 2800000, guid: ab21a36ff294937479ad8652042a5a8e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: savaModel-00036-texture
+    second: {fileID: 2800000, guid: 0bfdb8af8e35eb44c91372a266f0578c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: savaModel-00037-texture
+    second: {fileID: 2800000, guid: 79d9e09ea948d604e802611f81f7ce5b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: savaModel-00038-texture
+    second: {fileID: 2800000, guid: f92041a85836943458cd113fff9722ab, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: savaModel-00039-texture
+    second: {fileID: 2800000, guid: 25149673b8a8b8e43bbe43c12e0d7bd7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: savaModel-00040-texture
+    second: {fileID: 2800000, guid: 17daccb202bdc9340bf5dc04a524c85d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: savaModel-00041-texture
+    second: {fileID: 2800000, guid: 61f419f8d596c724cb9c16539e82726c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: savaModel-00042-texture
+    second: {fileID: 2800000, guid: 0de8ee63dd1fe3646ac08b9f573fcbda, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: savaModel-00043-texture
+    second: {fileID: 2800000, guid: cfdaf4d1d30d07147aac62d6eafb426f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: savaModel-00044-texture
+    second: {fileID: 2800000, guid: 8696b9620461fa746a6a5fb39d809a93, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: savaModel-00045-texture
+    second: {fileID: 2800000, guid: 8b380ab8678752840bd30fdd96055a14, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: savaModel-00046-texture
+    second: {fileID: 2800000, guid: ee09e8801042ea84ba7d7bf1fb604953, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: savaModel-00047-texture
+    second: {fileID: 2800000, guid: 887ee8bcb195f8f48a7d84dac97af3b0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: savaModel-00048-texture
+    second: {fileID: 2800000, guid: 81a96df5cc3736343a11bbfb6bbbf6f3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: savaModel-00049-texture
+    second: {fileID: 2800000, guid: 02a0a321d91d99d4a8dc46b0120c6d48, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: savaModel-00050-texture
+    second: {fileID: 2800000, guid: 64f9e040a5eb2f646ac3125a431e19fb, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: savaModel-00051-texture
+    second: {fileID: 2800000, guid: 182a3927da0ba4044be283193463a951, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: savaModel-00052-texture
+    second: {fileID: 2800000, guid: bbe897c6bf2042d42b7334bf3a7dbc4a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: savaModel-00053-texture
+    second: {fileID: 2800000, guid: 9c59e9fbf5b0d7a48899ff1dc1a0ff90, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: savaModel-00054-texture
+    second: {fileID: 2800000, guid: 7c7ba710e1a23ef4f8c9e1a9cc6e2f92, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: savaModel-00055-texture
+    second: {fileID: 2800000, guid: bb52be8ba7267564d9776a337f582cca, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: savaModel-00056-texture
+    second: {fileID: 2800000, guid: dc7e00eab20d03046958ed7c4e4848e3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: savaModel-00057-texture
+    second: {fileID: 2800000, guid: 21ff7677afc3d0549ba769d781c91d82, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: savaModel-00058-texture
+    second: {fileID: 2800000, guid: 7f724a856b743c9418abd5e7458d719b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: savaModel-00059-texture
+    second: {fileID: 2800000, guid: 67a2f4cae386591408df89ca54fc946b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: savaModel-00060-texture
+    second: {fileID: 2800000, guid: 8aa5718a2a21e6646907a7a55f634e6f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: savaModel-00061-texture
+    second: {fileID: 2800000, guid: f89a48cf30aa2dd4eb530e20aff7181d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: savaModel-00062-texture
+    second: {fileID: 2800000, guid: 6471e957a30065340b92db2207d5094f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: savaModel-00063-texture
+    second: {fileID: 2800000, guid: e20c25e001d2ef24090de2a76c404bbd, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: savaModel-00064-texture
+    second: {fileID: 2800000, guid: b670d502348ef8b4984a12eb9a0fc3f2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: savaModel-00065-texture
+    second: {fileID: 2800000, guid: be0249ea93eba7f47b465ce00effbc58, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: savaModel-00066-texture
+    second: {fileID: 2800000, guid: f1d20e33ae432f84fb3ea9e8e287e506, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: savaModel-00067-texture
+    second: {fileID: 2800000, guid: 57b53e7faced5bb45a4ad8a868834a93, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: savaModel-00068-texture
+    second: {fileID: 2800000, guid: c0305a0f22711c14194aff9c00b2b402, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: savaModel-00069-texture
+    second: {fileID: 2800000, guid: c8f4afc6aaa9ce2429773c469ffe0af6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: savaModel-00070-texture
+    second: {fileID: 2800000, guid: 46c167ab412ab2942913a17b60faccb9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: savaModel-00071-texture
+    second: {fileID: 2800000, guid: 586a93f8b4dbcdc4d8f22a288954bf14, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: savaModel-00072-texture
+    second: {fileID: 2800000, guid: a67efb3f7dd9ea64dae298945b7d7479, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: savaModel-00073-texture
+    second: {fileID: 2800000, guid: 0389826a92f790f4cb17ace046ebf2d4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: savaModel-00074-texture
+    second: {fileID: 2800000, guid: a113c3a749674cf44ae60d0e85d38c61, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: savaModel-00075-texture
+    second: {fileID: 2800000, guid: 5d1e276cb6b2e63468da7838868852fd, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: savaModel-00076-texture
+    second: {fileID: 2800000, guid: d3ec5fed9a4e52d4c9880ab441d2ff54, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: savaModel-00077-texture
+    second: {fileID: 2800000, guid: 61b3fdae399ad2d40bb2b8ec29f6a84c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: savaModel-00078-texture
+    second: {fileID: 2800000, guid: 96a1887b75856c445a79d32757a9fa7b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: savaModel-00079-texture
+    second: {fileID: 2800000, guid: 9614a1fdf7e68984dbf705f853faf31e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: savaModel-00080-texture
+    second: {fileID: 2800000, guid: a44380574952b3646a0c14ee1144604f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: savaModel-00081-texture
+    second: {fileID: 2800000, guid: 81d49d6976a312a46b658b2312a8ca10, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: savaModel-00082-texture
+    second: {fileID: 2800000, guid: f83d9abff0557a64b93c61523e17e1cb, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: savaModel-00083-texture
+    second: {fileID: 2800000, guid: 1ff1981ce4da1a84db4fd3aae67c389f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: savaModel-00084-texture
+    second: {fileID: 2800000, guid: 1833039f0a788bf40b9d2c682a31b550, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: savaModel-00085-texture
+    second: {fileID: 2800000, guid: 724bd486c84a27d4d97d14fc72d53f20, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: savaModel-00086-texture
+    second: {fileID: 2800000, guid: 8b7bdcb5410b98542b04fec0eabdd3c7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: savaModel-00087-texture
+    second: {fileID: 2800000, guid: b05aba31fb5b02d4fa28b0158b00c90f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: savaModel-00088-texture
+    second: {fileID: 2800000, guid: 944b1364089711a4fa61f5bff40237b2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: savaModel-00089-texture
+    second: {fileID: 2800000, guid: 093981059ee022c41b7889934d289d3b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: savaModel-00090-texture
+    second: {fileID: 2800000, guid: 687b45948b5410e4e8b5481f6d3c11b7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: savaModel-00091-texture
+    second: {fileID: 2800000, guid: 32eb4fd9308d58d42ac6dcd21af8ac11, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: savaModel-00092-texture
+    second: {fileID: 2800000, guid: 07495e89780322a499ec253a89845a0f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: savaModel-00093-texture
+    second: {fileID: 2800000, guid: f637d6a601ac1f44c9926db028fda9a3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: savaModel-00094-texture
+    second: {fileID: 2800000, guid: 900b5eb52133dec448bc7ad5f71055f4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: savaModel-00095-texture
+    second: {fileID: 2800000, guid: 45f96e2507d24fd48badf7f4fb440620, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: savaModel-00096-texture
+    second: {fileID: 2800000, guid: ff02ef53989e48a42b11837870aac372, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: savaModel-00097-texture
+    second: {fileID: 2800000, guid: 0c05af1a3ba65184e9c26059f9fb6605, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: savaModel-00098-texture
+    second: {fileID: 2800000, guid: 18d915d72614e7f42ad380a5372405b9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: savaModel-00099-texture
+    second: {fileID: 2800000, guid: a7bedbf5a629da846ad892e353401884, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: savaModel-00100-texture
+    second: {fileID: 2800000, guid: b795b7855a75f60448198ef94c399993, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: savaModel-00101-texture
+    second: {fileID: 2800000, guid: cd2524e3cbc76d14fa37a5c11603ba25, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: savaModel-00102-texture
+    second: {fileID: 2800000, guid: 4af93d8ddb12b2f4198e369d3a03ffda, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: savaModel-00103-texture
+    second: {fileID: 2800000, guid: 5056afff1babac443b0b0d3c3743db41, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: savaModel-00104-texture
+    second: {fileID: 2800000, guid: bc406376e319d234aa824340da9144d8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: savaModel-00105-texture
+    second: {fileID: 2800000, guid: 92fd22b35e606d249be1efb30bb654fb, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: savaModel-00106-texture
+    second: {fileID: 2800000, guid: 58b24ea979b3ce64e85365f307d1575a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: savaModel-00107-texture
+    second: {fileID: 2800000, guid: 9b7edbfd12475494aa16529debf3e472, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: savaModel-00108-texture
+    second: {fileID: 2800000, guid: b2eb31e1d3a5109438d8b863a7363217, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: savaModel-00109-texture
+    second: {fileID: 2800000, guid: de03dae893c70cd42b34a90d30f9929c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: savaModel-00110-texture
+    second: {fileID: 2800000, guid: a6ae4b10d0e799749909fda7114f561b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: savaModel-00111-texture
+    second: {fileID: 2800000, guid: 9f1bbcf1dacd2b349b7daaa8eec645e8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: savaModel-00112-texture
+    second: {fileID: 2800000, guid: 71644ee930bd4e04c829c09de45aac42, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: savaModel-00113-texture
+    second: {fileID: 2800000, guid: 3533e73490858534e8a9e6e2c08da9d2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: savaModel-00114-texture
+    second: {fileID: 2800000, guid: b55b68ff5b336784f9506afb51fc94c7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: savaModel-00115-texture
+    second: {fileID: 2800000, guid: 44174d7f2f788f94a836c7a512b66131, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: savaModel-00116-texture
+    second: {fileID: 2800000, guid: 41e645e447c28cd459e64506fa930492, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: savaModel-00117-texture
+    second: {fileID: 2800000, guid: f561ed6685163a647ba5e2c9c4d7b911, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: savaModel-00118-texture
+    second: {fileID: 2800000, guid: eb3e258167cac1b4bbc3afd1e50a04d8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: savaModel-00119-texture
+    second: {fileID: 2800000, guid: eda30a1f432a17949b922db78748056a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: savaModel-00120-texture
+    second: {fileID: 2800000, guid: fc4c1757bbeab8a48b384ed81c5e74e5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: savaModel-00121-texture
+    second: {fileID: 2800000, guid: 2b67485f448aa3147b17221234fec03b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: savaModel-00122-texture
+    second: {fileID: 2800000, guid: 8adc295904537b747b30d1b8b97d9313, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: savaModel-00123-texture
+    second: {fileID: 2800000, guid: bf76eda9bf8a6c947b786c72433a1b49, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: savaModel-00124-texture
+    second: {fileID: 2800000, guid: 16dd1bcf4c7f39e46b168ebb191125d0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: savaModel-00125-texture
+    second: {fileID: 2800000, guid: 28dae1f9f2bed4d4dab6d034b38c6c94, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: savaModel-00126-texture
+    second: {fileID: 2800000, guid: 5203a1820472df741aa3908cddd341fc, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: savaModel-00127-texture
+    second: {fileID: 2800000, guid: 303f7c41bacab894685715bf4d73e52b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: savaModel-00128-texture
+    second: {fileID: 2800000, guid: 207601a6821a15d44972a5c3341dacb4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: savaModel-00129-texture
+    second: {fileID: 2800000, guid: ed8295599b15ddb4486c332f6a784382, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: savaModel-00130-texture
+    second: {fileID: 2800000, guid: 24752c992e762f340b0019ef7f168f42, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: savaModel-00131-texture
+    second: {fileID: 2800000, guid: 2569afe249b97104485d7120ff37fdb5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: savaModel-00132-texture
+    second: {fileID: 2800000, guid: 68cbcc760d733784bb5f7c3868346bf7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: savaModel-00133-texture
+    second: {fileID: 2800000, guid: 2f285d52831e27f4386ac1aa867b7318, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: savaModel-00134-texture
+    second: {fileID: 2800000, guid: 4ea06df921c855b4180b4fb53c5b1df8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: savaModel-00135-texture
+    second: {fileID: 2800000, guid: 9a86ae1ad4048054e8838a38ba097099, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: savaModel-00136-texture
+    second: {fileID: 2800000, guid: 3b252cdf485e7a749a6d3f6ce7c44172, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: savaModel-00137-texture
+    second: {fileID: 2800000, guid: 99b6b2b8468b8d049942f3d630c8bfea, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: savaModel-00138-texture
+    second: {fileID: 2800000, guid: 5d9fae01b31cc7d4eb256c12398be326, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: savaModel-00139-texture
+    second: {fileID: 2800000, guid: 3508b44b75451a740bbc14fc7c923c58, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: savaModel-00140-texture
+    second: {fileID: 2800000, guid: 905fddde64443784d8ebe682bc3fdb6f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: savaModel-00141-texture
+    second: {fileID: 2800000, guid: fa614ca694ae05d45ab10483bee76cbe, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: savaModel-00142-texture
+    second: {fileID: 2800000, guid: ffc4e507a4356d048b47c7bf34532fdd, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: savaModel-00143-texture
+    second: {fileID: 2800000, guid: 041cff470ad29f747b5bd5baf1bbd063, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: savaModel-00144-texture
+    second: {fileID: 2800000, guid: b4f8510ab75af814e8ecaa78f94484b5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: savaModel-00145-texture
+    second: {fileID: 2800000, guid: 4e040effb95a0e74a92415cb0f01aa6f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: savaModel-00146-texture
+    second: {fileID: 2800000, guid: 760f7b966690922419afbc9c0b6ab97a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: savaModel-00147-texture
+    second: {fileID: 2800000, guid: 99fe86c776a91fa43b5718f0bc4f853e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: savaModel-00148-texture
+    second: {fileID: 2800000, guid: 6d3a43746b701c045b6df06a165df0d6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: savaModel-00149-texture
+    second: {fileID: 2800000, guid: 33cdb6bdec9e9574f94ed59c50edf472, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: savaModel-00150-texture
+    second: {fileID: 2800000, guid: 58d7164398c76e644bca30ba59cf0167, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: savaModel-00151-texture
+    second: {fileID: 2800000, guid: 8d926099ae737cc49b54962f99bf7a77, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: savaModel-00152-texture
+    second: {fileID: 2800000, guid: ec07d06ed39a38748bb7562c0401f981, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: savaModel-00153-texture
+    second: {fileID: 2800000, guid: 483d4b91bb66bfe4d9797d48dfe42090, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: savaModel-00154-texture
+    second: {fileID: 2800000, guid: 801e3694dc1d1f34999fd5b96a114f03, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: savaModel-00155-texture
+    second: {fileID: 2800000, guid: d7ab0dfce84d79e4c948d34ef54b390f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: savaModel-00156-texture
+    second: {fileID: 2800000, guid: 3524e5b4ace3a7d4a8427d93afe0a051, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: savaModel-00157-texture
+    second: {fileID: 2800000, guid: 32db7703b4094f141841d721544539c3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: savaModel-00158-texture
+    second: {fileID: 2800000, guid: 2fb0df4cf2eed3e43810864ad39b0047, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: savaModel-00159-texture
+    second: {fileID: 2800000, guid: b33e72ca6066bc6418a4fd8aeeae5be6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: savaModel-00160-texture
+    second: {fileID: 2800000, guid: 798c1493b4ffe6842900896ca33746c3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: savaModel-00161-texture
+    second: {fileID: 2800000, guid: 86ecc38830024a9438fcf95ac0e4ff66, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: savaModel-00162-texture
+    second: {fileID: 2800000, guid: b7cb14e82e5eaf64a9d4bdb33e496743, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: savaModel-00163-texture
+    second: {fileID: 2800000, guid: 1f3aac9abd95fde4f980935d45814bc3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: savaModel-00164-texture
+    second: {fileID: 2800000, guid: 0595ed3e79eff9d469ac2f90b156f994, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: savaModel-00165-texture
+    second: {fileID: 2800000, guid: 2fd43f64aa981304f87d236507d10668, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: savaModel-00166-texture
+    second: {fileID: 2800000, guid: 394c00164cf64c345aa5b013817d28ac, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: savaModel-00167-texture
+    second: {fileID: 2800000, guid: 621d820877f7c8e4bb22ea44461e4b4a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: savaModel-00168-texture
+    second: {fileID: 2800000, guid: 78d384004d7e788498ec333506b8f23f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: savaModel-00169-texture
+    second: {fileID: 2800000, guid: 02d88ac611d45bf4fa498186b895cca6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: savaModel-00170-texture
+    second: {fileID: 2800000, guid: b42c50e636bfdb3489c43a27157f2794, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: savaModel-00171-texture
+    second: {fileID: 2800000, guid: 3528009bf67c2ae478d8c01daf780773, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: savaModel-00172-texture
+    second: {fileID: 2800000, guid: 28e95deb6b9427f41b296ed7d6a92a5a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: savaModel-00173-texture
+    second: {fileID: 2800000, guid: 94847f68fa537b94fb2a7ceaefaa7cf4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: savaModel-00174-texture
+    second: {fileID: 2800000, guid: 4725cf975adf26744af44aed67450635, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: savaModel-00175-texture
+    second: {fileID: 2800000, guid: b3d200ed47b48794bbc4ac0eafd2846a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: savaModel-00176-texture
+    second: {fileID: 2800000, guid: a35441ca27cc91a4b94a87f76d624ab3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: savaModel-00177-texture
+    second: {fileID: 2800000, guid: 338b3c387107c2245a04b80877946799, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: savaModel-00178-texture
+    second: {fileID: 2800000, guid: 1b40e52586fe5264b94ee8a62d2e9156, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: savaModel-00179-texture
+    second: {fileID: 2800000, guid: c8c487eb82c202d4d820cefc8d9e6f14, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: savaModel-00180-texture
+    second: {fileID: 2800000, guid: 51b678834e7121a41903a8fe22e6f762, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: savaModel-00181-texture
+    second: {fileID: 2800000, guid: 62cfd2ff468f3c74d84645a6829be28e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: savaModel-00182-texture
+    second: {fileID: 2800000, guid: c7bc22c1f233b85439a3401dcaed6f78, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: savaModel-00183-texture
+    second: {fileID: 2800000, guid: 65e48a000a29abe4baf5f4f8a8f27295, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: savaModel-00184-texture
+    second: {fileID: 2800000, guid: f310171a527a79343aabb9b9a99fadaf, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: savaModel-00185-texture
+    second: {fileID: 2800000, guid: bd095243853a17d4cac7b19485ed957c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: savaModel-00186-texture
+    second: {fileID: 2800000, guid: 14b4c68367bbf084b908403c65980376, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: savaModel-00187-texture
+    second: {fileID: 2800000, guid: c150122304926ed4ea5118117460ea46, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: savaModel-00188-texture
+    second: {fileID: 2800000, guid: 593b919184af6e243bd817cfc8c5619a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: savaModel-00189-texture
+    second: {fileID: 2800000, guid: 9e927dd96bf27e5408cb61b6da7e585a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: savaModel-00190-texture
+    second: {fileID: 2800000, guid: e2c47942636570043a20f8d18f6963e6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: savaModel-00191-texture
+    second: {fileID: 2800000, guid: 8438f878f1d6a83499ca3d9cb7da3e1f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: savaModel-00192-texture
+    second: {fileID: 2800000, guid: 0b705f7e1c79b75419c49bdf0fc967e0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: savaModel-00193-texture
+    second: {fileID: 2800000, guid: bcce65597dc776348acb7441b2d8efb6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: savaModel-00194-texture
+    second: {fileID: 2800000, guid: 6533f6c0ed5499442b38f31e43585c66, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: savaModel-00195-texture
+    second: {fileID: 2800000, guid: 5c2f676edbe46904e93711679fac42b8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: savaModel-00196-texture
+    second: {fileID: 2800000, guid: 9821054a3e97a7349a04304fcb037756, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: savaModel-00197-texture
+    second: {fileID: 2800000, guid: 2c5ec29b7913d7945975cdfa3508ad0c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: savaModel-00198-texture
+    second: {fileID: 2800000, guid: bde723d4a0dce3a44a62a9a274eb6a6b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: savaModel-00199-texture
+    second: {fileID: 2800000, guid: f963815bd6cb6424db0c23a82bb51eb8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: savaModel-00200-texture
+    second: {fileID: 2800000, guid: 0e2fb5dfb13a7e2469c1409e40e1a324, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: savaModel-00201-texture
+    second: {fileID: 2800000, guid: 220844fd6b4ac2746bc1ed9c2eb255b2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: savaModel-00202-texture
+    second: {fileID: 2800000, guid: c7cf4528761e5b14dbc67ce1e40f789d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: savaModel-00203-texture
+    second: {fileID: 2800000, guid: a486404d2d30cac428f31191f55a40f5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: savaModel-00204-texture
+    second: {fileID: 2800000, guid: 9b38a840f7df20c498acd86afb235c5d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: savaModel-00205-texture
+    second: {fileID: 2800000, guid: ec5d3a5afecbe504d9a397f8d69f5486, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: savaModel-00206-texture
+    second: {fileID: 2800000, guid: fd98679c3f4700c4689a7bb81138435c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: savaModel-00207-texture
+    second: {fileID: 2800000, guid: d8c03c2a494c8fd4281e3210d8b167d2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: savaModel-00208-texture
+    second: {fileID: 2800000, guid: a6cb10944f719e942b054e2ab4074d61, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: savaModel-00209-texture
+    second: {fileID: 2800000, guid: 174765b7bfae09849b87f3c0e78647c4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: savaModel-00210-texture
+    second: {fileID: 2800000, guid: 062d3c578ffd4ef42957153a2c8d78c9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: savaModel-00211-texture
+    second: {fileID: 2800000, guid: 3bdf3b965ae18b741944cb80ab700813, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: savaModel-00212-texture
+    second: {fileID: 2800000, guid: c6f0c7660fef3564ca84875b32c7d909, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: savaModel-00213-texture
+    second: {fileID: 2800000, guid: 759546a93792ffd4488674787742af51, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: savaModel-00214-texture
+    second: {fileID: 2800000, guid: 179887733a7517a45b1fa0c26007ac65, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: savaModel-00215-texture
+    second: {fileID: 2800000, guid: e2917868a8bedc140b6ace960949d1ba, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: savaModel-00216-texture
+    second: {fileID: 2800000, guid: 9fd6e294b1fc2fd439d8ef0cb1e64d88, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: savaModel-00217-texture
+    second: {fileID: 2800000, guid: a3bfcd0203ad7994fa7126323ad3e115, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: savaModel-00218-texture
+    second: {fileID: 2800000, guid: ba0c551f87c9f1a4396a69e525edb0d0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: savaModel-00219-texture
+    second: {fileID: 2800000, guid: 630552f5008f7b44ea24942afd2f047a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: savaModel-00220-texture
+    second: {fileID: 2800000, guid: 785203bb2868de4408c78e6ed6f55899, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: savaModel-00221-texture
+    second: {fileID: 2800000, guid: 7e32ea2d684527e499535e5b2956c1f1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: savaModel-00222-texture
+    second: {fileID: 2800000, guid: fa32c25cf4795634bb2c3a5e5a945efd, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: savaModel-00223-texture
+    second: {fileID: 2800000, guid: aab42cf6702d5954982c391d49d6b2da, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: savaModel-00224-texture
+    second: {fileID: 2800000, guid: 346bad651d2ab1049a77772b51f3daba, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: savaModel-00225-texture
+    second: {fileID: 2800000, guid: 4311c622f6d97f3419346951675e6771, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: savaModel-00226-texture
+    second: {fileID: 2800000, guid: 8fe7e1a66771ad644aaf187e1b9d332a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: savaModel-00227-texture
+    second: {fileID: 2800000, guid: 6c493593511084945a1205911fae56f7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: savaModel-00228-texture
+    second: {fileID: 2800000, guid: b73956fa16a619c45a49652e94e149a6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: savaModel-00229-texture
+    second: {fileID: 2800000, guid: 6c53a1164f989114488ea724148087e6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: savaModel-00230-texture
+    second: {fileID: 2800000, guid: 1f7fd6d24f60df3479688d5e9fec28fb, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: savaModel-00231-texture
+    second: {fileID: 2800000, guid: b1053c89925ef1c488d7dfe0a76975a6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: savaModel-00232-texture
+    second: {fileID: 2800000, guid: 7cb6e7461443e1d4885a38dca93431dd, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: savaModel-00233-texture
+    second: {fileID: 2800000, guid: 928caecbeca51e64784079ea698f2c23, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: savaModel-00234-texture
+    second: {fileID: 2800000, guid: 59e1e7eaf02b4f346bd329e0714a7dcc, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: savaModel-00235-texture
+    second: {fileID: 2800000, guid: a8b7d0a7f20a0864196a9a8f67eb7f9b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: savaModel-00236-texture
+    second: {fileID: 2800000, guid: 7bfbeb253dcabc448a6f8710b754b791, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: savaModel-00237-texture
+    second: {fileID: 2800000, guid: 91a71aead599bad44929af4d3f1b2737, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: savaModel-00238-texture
+    second: {fileID: 2800000, guid: 0dde985ef6657be4899a112f65f25129, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: savaModel-00239-texture
+    second: {fileID: 2800000, guid: 80ede5731304c35498621eef8209e03d, type: 3}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

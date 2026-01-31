@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Npcs
+  m_EditorClassIdentifier: 
+  m_GroupName: Npcs
+  m_Data:
+    m_SerializedData: []
+  m_GUID: a0ce3d5f67703ac45a563008b702382f
+  m_SerializeEntries:
+  - m_GUID: b2c5d8e56880bfc46b574f2eccf32faa
+    m_Address: Assets/prefabs/npc/Vehicle_Police Car.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: eb52300cf0d41ab498d4887592c15521
+    m_Address: Assets/prefabs/npc/police_Female_A.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3b9e28fa2f64b5b45bc122317da1c2a7
+    m_Address: Assets/prefabs/npc/casual_Male_G Mono no ragdoll.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8577d4ba716050747b5887ca7da6d662
+    m_Address: Assets/prefabs/npc/casual_Male_G Mono Ragdoll.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 4b4190727b2300d42bb8276593418305, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 47f23b1b864fdeb4cb863b113e4a778e, type: 2}
+    - {fileID: 11400000, guid: 965333188a81be540b1738c872999091, type: 2}

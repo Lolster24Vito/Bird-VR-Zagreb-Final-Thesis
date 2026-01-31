@@ -1,0 +1,1154 @@
+fileFormatVersion: 2
+guid: f348ffd63a82f424db472291d519f4a7
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 494c57_metal.png
+    second: {fileID: 2100000, guid: d078999a6c6b9124da82a1cc328aafa8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 5e2a31_metal.png
+    second: {fileID: 2100000, guid: da5b00c2d7b0adc48821807add14fdf9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 7b422f_brick.jpg
+    second: {fileID: 2100000, guid: fc9d01ca3a189ae4e82458c2f8fcf73a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 7b422f_brick.png
+    second: {fileID: 2100000, guid: acbb2a873a8739f49b47fee34af32dd8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 818b8f_metal.png
+    second: {fileID: 2100000, guid: ac9cc991cdd711844a2167f3fe69efa1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 8a5c4d_roof_tiles.jpg
+    second: {fileID: 2100000, guid: 54952eb649071b442b586eed16c7834b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 8a5c4d_roof_tiles.png
+    second: {fileID: 2100000, guid: 0ef3a98b0e9d11545ba9d3c5b9858c82, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 976c6b_brick.jpg
+    second: {fileID: 2100000, guid: 9a0ea46a7dffc3d44bd690eb983554d2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 976c6b_brick.png
+    second: {fileID: 2100000, guid: 543ad3ebf7619db4cb29f409e5bbf413, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: a3865f_plaster.png
+    second: {fileID: 2100000, guid: 255b564e9b2d9794994d5ca8f58cf59b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: a6653f_roof_tiles.jpg
+    second: {fileID: 2100000, guid: 8b176ea14794bbb4c9524270ca38b9af, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: a6653f_roof_tiles.png
+    second: {fileID: 2100000, guid: 2fa1c8ae066daec439c9f018d9b7da09, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: afafaf_concrete.jpg
+    second: {fileID: 2100000, guid: 80566969fb24d8d459a869f20dab5015, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: afafaf_concrete.png
+    second: {fileID: 2100000, guid: b3ed5149c921cd84382e25431a7881a2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: areas_pedestrian
+    second: {fileID: 2100000, guid: fe446d0a1b947e445be5b2574012dd21, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: b2b2a6_concrete.jpg
+    second: {fileID: 2100000, guid: dea1933a5597f384c9c88f70f07656b3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: b2b2a6_concrete.png
+    second: {fileID: 2100000, guid: a4f7ef85ecb232c4cb12655fbd88f535, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: b8a594_plaster.png
+    second: {fileID: 2100000, guid: 18713ef738ea8ae49a67997de50dd42f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: c5765d_brick.jpg
+    second: {fileID: 2100000, guid: d0f054f9418ad5e4f98c90c083d0b179, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: c5765d_brick.png
+    second: {fileID: 2100000, guid: 702b7a442e0f35147bcd8f67a4780757, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: c57a63_roof_tiles.jpg
+    second: {fileID: 2100000, guid: b5d9bea4e3c9074458448ef14c4679da, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: c57a63_roof_tiles.png
+    second: {fileID: 2100000, guid: 463f33de05b04b141bdb585b0fd88a51, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: c8c2b6_concrete.jpg
+    second: {fileID: 2100000, guid: 1c688f4da9eeeb14ca4667f9e9748cb9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: c8c2b6_concrete.png
+    second: {fileID: 2100000, guid: fb5dd03a136d17f47aa37730ab1b5db7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cc0textures_bricks11_col_exp.jpg_7b422f_pro_2157_exp.png
+    second: {fileID: 2100000, guid: 194b5a5675c678143a5244c562eda76a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cc0textures_bricks11_col_exp.jpg_7b422f_pro_2161_exp.png
+    second: {fileID: 2100000, guid: e7c12362dc32c70499847a291ffaee21, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cc0textures_bricks11_col_exp.jpg_7b422f_pro_2353_exp.png
+    second: {fileID: 2100000, guid: 7785fcc66e5144f4c983046c85d6adb3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cc0textures_bricks11_col_exp.jpg_7b422f_pro_2901_exp.png
+    second: {fileID: 2100000, guid: c58b57338d3d57b4d851181d3ca10371, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cc0textures_bricks11_col_exp.jpg_7b422f_pro_6908_exp.png
+    second: {fileID: 2100000, guid: bf5552a1b6e70f74493b378d6432beaf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cc0textures_bricks11_col_exp.jpg_976c6b_pro_2157_exp.png
+    second: {fileID: 2100000, guid: d3f7f192621a7024bb63a6b43d720dda, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cc0textures_bricks11_col_exp.jpg_976c6b_pro_2161_exp.png
+    second: {fileID: 2100000, guid: b714433db26006b43ac7186f0401087c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cc0textures_bricks11_col_exp.jpg_976c6b_pro_2353_exp.png
+    second: {fileID: 2100000, guid: 78ce87c39ec4e4a4298672a7487059d7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cc0textures_bricks11_col_exp.jpg_976c6b_pro_2901_exp.png
+    second: {fileID: 2100000, guid: 8433937dec78c9d499d0bb1c8480ac87, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cc0textures_bricks11_col_exp.jpg_976c6b_pro_6908_exp.png
+    second: {fileID: 2100000, guid: fd669c20cea09ca4995dd19f2c538d53, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cc0textures_bricks11_col_exp.jpg_c5765d_pro_2157_exp.png
+    second: {fileID: 2100000, guid: 881acfb2c32620147bfa9bddab5386ff, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cc0textures_bricks11_col_exp.jpg_c5765d_pro_2161_exp.png
+    second: {fileID: 2100000, guid: 3d9436bafb7880b4e8083bd281c40d43, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cc0textures_bricks11_col_exp.jpg_c5765d_pro_2353_exp.png
+    second: {fileID: 2100000, guid: de972ab846dfa204b8c475b5b847a8b7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cc0textures_bricks11_col_exp.jpg_c5765d_pro_2901_exp.png
+    second: {fileID: 2100000, guid: 9c199d4f7ca504d40913363797b17306, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cc0textures_bricks11_col_exp.jpg_c5765d_pro_6908_exp.png
+    second: {fileID: 2100000, guid: 477d5faaf2b8ee9438856f3563566fb6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cfbc8e_plaster.png
+    second: {fileID: 2100000, guid: f9d705a1ac10c574fb44c4f966ed1c70, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: duion_bricks_classic_01_D_exp.png_7b422f_pro_2157_exp.png
+    second: {fileID: 2100000, guid: 108f1d5b186c98b4c88c8e71c6da20f6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: duion_bricks_classic_01_D_exp.png_7b422f_pro_2161_exp.png
+    second: {fileID: 2100000, guid: e129b3cf6589ee041ac0fcbd80c77161, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: duion_bricks_classic_01_D_exp.png_7b422f_pro_2353_exp.png
+    second: {fileID: 2100000, guid: e6361ce200175db49a434a7e57441e1d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: duion_bricks_classic_01_D_exp.png_7b422f_pro_2901_exp.png
+    second: {fileID: 2100000, guid: 4ad5c10c94a1b0244af01443744e28f0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: duion_bricks_classic_01_D_exp.png_7b422f_pro_6908_exp.png
+    second: {fileID: 2100000, guid: 7d6a232347afdac45963d672e337b249, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: duion_bricks_classic_01_D_exp.png_976c6b_pro_2157_exp.png
+    second: {fileID: 2100000, guid: 9e5614a7c48313d4c93275c2e64df94e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: duion_bricks_classic_01_D_exp.png_976c6b_pro_2161_exp.png
+    second: {fileID: 2100000, guid: 3c42a68c9cd6a5f45bcba60accc18d91, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: duion_bricks_classic_01_D_exp.png_976c6b_pro_2353_exp.png
+    second: {fileID: 2100000, guid: 4b3a2b22d7656364dbd162dfa1f6371b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: duion_bricks_classic_01_D_exp.png_976c6b_pro_2901_exp.png
+    second: {fileID: 2100000, guid: fec9ac9a87176434582d08532091b82f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: duion_bricks_classic_01_D_exp.png_976c6b_pro_6908_exp.png
+    second: {fileID: 2100000, guid: 1d30cf901a425244aa7dd604649c13a7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: duion_bricks_classic_01_D_exp.png_c5765d_pro_2157_exp.png
+    second: {fileID: 2100000, guid: 4ccf701a6b3c622409833414afb42192, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: duion_bricks_classic_01_D_exp.png_c5765d_pro_2161_exp.png
+    second: {fileID: 2100000, guid: 15415d210bed57149a6f86c8316021ec, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: duion_bricks_classic_01_D_exp.png_c5765d_pro_2353_exp.png
+    second: {fileID: 2100000, guid: f0125d7d51e0064488250863483df4a2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: duion_bricks_classic_01_D_exp.png_c5765d_pro_2901_exp.png
+    second: {fileID: 2100000, guid: 20b0312fbf6096e4ca95b17028e24aad, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: duion_bricks_classic_01_D_exp.png_c5765d_pro_6908_exp.png
+    second: {fileID: 2100000, guid: d57769261ac2a8946943b87cc65a2ea2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: duion_bricks_classic_02_D_exp.png_7b422f_pro_2157_exp.png
+    second: {fileID: 2100000, guid: ce46c770ef39d8c4d864f235a3659b6e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: duion_bricks_classic_02_D_exp.png_7b422f_pro_2161_exp.png
+    second: {fileID: 2100000, guid: 3171ffaae5473e249ae8b0e2f46cf480, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: duion_bricks_classic_02_D_exp.png_7b422f_pro_2353_exp.png
+    second: {fileID: 2100000, guid: 9bf8b208e492f9c4181614a160de65c8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: duion_bricks_classic_02_D_exp.png_7b422f_pro_2901_exp.png
+    second: {fileID: 2100000, guid: c276568c807cec44b83cbd2d2bfca57b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: duion_bricks_classic_02_D_exp.png_7b422f_pro_6908_exp.png
+    second: {fileID: 2100000, guid: 6a8dc5b4c7c0ef249bfd0896617c7339, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: duion_bricks_classic_02_D_exp.png_976c6b_pro_2157_exp.png
+    second: {fileID: 2100000, guid: 838974b9052f60c4fa8e3e90aab0281d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: duion_bricks_classic_02_D_exp.png_976c6b_pro_2161_exp.png
+    second: {fileID: 2100000, guid: 5369e6f9b864f3b42bbc4edd040dc477, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: duion_bricks_classic_02_D_exp.png_976c6b_pro_2353_exp.png
+    second: {fileID: 2100000, guid: 04611f81997290f4c848cdc2905d42df, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: duion_bricks_classic_02_D_exp.png_976c6b_pro_2901_exp.png
+    second: {fileID: 2100000, guid: 0e62684c19902bc4982f754e716bbd05, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: duion_bricks_classic_02_D_exp.png_976c6b_pro_6908_exp.png
+    second: {fileID: 2100000, guid: 8ff2855b4fccdb24e915f09abe52ec09, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: duion_bricks_classic_02_D_exp.png_c5765d_pro_2157_exp.png
+    second: {fileID: 2100000, guid: 59f032f8f25367b4eab6294eed0121b2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: duion_bricks_classic_02_D_exp.png_c5765d_pro_2161_exp.png
+    second: {fileID: 2100000, guid: 3618f914362f1e74d81cd26024c82b5b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: duion_bricks_classic_02_D_exp.png_c5765d_pro_2353_exp.png
+    second: {fileID: 2100000, guid: 5bf0c962beacca44fa7e043aea4467eb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: duion_bricks_classic_02_D_exp.png_c5765d_pro_2901_exp.png
+    second: {fileID: 2100000, guid: 0834fa347b08ba545a0e444fde7c71cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: duion_bricks_classic_02_D_exp.png_c5765d_pro_6908_exp.png
+    second: {fileID: 2100000, guid: 574529fa9a8a0db4687ee93c9758178c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: duion_plaster_sprinkled_01_D_exp.png_a3865f_pro_2157_exp.png
+    second: {fileID: 2100000, guid: e08dca215d2197e4ea0273bc30122117, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: duion_plaster_sprinkled_01_D_exp.png_a3865f_pro_2161_exp.png
+    second: {fileID: 2100000, guid: 328fd2c98277c6342bd4a83b20ab559a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: duion_plaster_sprinkled_01_D_exp.png_a3865f_pro_2353_exp.png
+    second: {fileID: 2100000, guid: 743c5634f8afd414e984de1d6efe552e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: duion_plaster_sprinkled_01_D_exp.png_a3865f_pro_2901_exp.png
+    second: {fileID: 2100000, guid: e146d8a59cadc164093c35c5f75e3ef8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: duion_plaster_sprinkled_01_D_exp.png_a3865f_pro_6908_exp.png
+    second: {fileID: 2100000, guid: ad2f747ea4e14884fad9ed14f335fe76, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: duion_plaster_sprinkled_01_D_exp.png_b8a594_pro_2157_exp.png
+    second: {fileID: 2100000, guid: be179d599627fbe448eed546dc4a4de4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: duion_plaster_sprinkled_01_D_exp.png_b8a594_pro_2161_exp.png
+    second: {fileID: 2100000, guid: a4229bdc79033124f9a35fb34452d1cc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: duion_plaster_sprinkled_01_D_exp.png_b8a594_pro_2353_exp.png
+    second: {fileID: 2100000, guid: f3e5f011006fa4246b8d302b19c7f419, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: duion_plaster_sprinkled_01_D_exp.png_b8a594_pro_2901_exp.png
+    second: {fileID: 2100000, guid: 42d2a40bb445cf64f9d3005d0b0169c9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: duion_plaster_sprinkled_01_D_exp.png_b8a594_pro_6908_exp.png
+    second: {fileID: 2100000, guid: 16a39bfa2ccdb1d41aa6a5cb59011fa1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: duion_plaster_sprinkled_01_D_exp.png_cfbc8e_pro_2157_exp.png
+    second: {fileID: 2100000, guid: 1fbe1fcd258698b4bbe47befacf4aa1f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: duion_plaster_sprinkled_01_D_exp.png_cfbc8e_pro_2161_exp.png
+    second: {fileID: 2100000, guid: 7b8102d36da1ece408b6411e60b6df6d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: duion_plaster_sprinkled_01_D_exp.png_cfbc8e_pro_2353_exp.png
+    second: {fileID: 2100000, guid: 8fdf5cdb1f2012d47912f53eb1d8e6e0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: duion_plaster_sprinkled_01_D_exp.png_cfbc8e_pro_2901_exp.png
+    second: {fileID: 2100000, guid: 06cefd8b5dc290e478bb9a8599f13c5b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: duion_plaster_sprinkled_01_D_exp.png_cfbc8e_pro_6908_exp.png
+    second: {fileID: 2100000, guid: 4c365e0a965e1994d9599a5da5fd15ae, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: duion_plaster_stucco_01_D_exp.png_a3865f_pro_2157_exp.png
+    second: {fileID: 2100000, guid: 21cb213891fbc4440a5e0faa1ac26597, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: duion_plaster_stucco_01_D_exp.png_a3865f_pro_2161_exp.png
+    second: {fileID: 2100000, guid: f9304cb42806d404f92f3cb2a57aef24, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: duion_plaster_stucco_01_D_exp.png_a3865f_pro_2353_exp.png
+    second: {fileID: 2100000, guid: 12358c1600ac804428447b84d8761861, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: duion_plaster_stucco_01_D_exp.png_a3865f_pro_2901_exp.png
+    second: {fileID: 2100000, guid: a89757b86eab67d43b1524fcca7fa3b4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: duion_plaster_stucco_01_D_exp.png_a3865f_pro_6908_exp.png
+    second: {fileID: 2100000, guid: 88c0f75579d907143b065c9a0473ae64, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: duion_plaster_stucco_01_D_exp.png_b8a594_pro_2157_exp.png
+    second: {fileID: 2100000, guid: 8a5370c19f5a30448835a52348bfafae, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: duion_plaster_stucco_01_D_exp.png_b8a594_pro_2161_exp.png
+    second: {fileID: 2100000, guid: de393448743933f4faddbb6f210e19e7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: duion_plaster_stucco_01_D_exp.png_b8a594_pro_2353_exp.png
+    second: {fileID: 2100000, guid: 324e87c2316629e44923d3ab56e41618, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: duion_plaster_stucco_01_D_exp.png_b8a594_pro_2901_exp.png
+    second: {fileID: 2100000, guid: eb9936abb69dc6b4490078aa622c6841, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: duion_plaster_stucco_01_D_exp.png_b8a594_pro_6908_exp.png
+    second: {fileID: 2100000, guid: 5545d04b7e8081041a820996daefdb9a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: duion_plaster_stucco_01_D_exp.png_cfbc8e_pro_2157_exp.png
+    second: {fileID: 2100000, guid: 19114b3b33674e146ac35126c7676c2a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: duion_plaster_stucco_01_D_exp.png_cfbc8e_pro_2161_exp.png
+    second: {fileID: 2100000, guid: 85ed9195e4651ec4481993ef40470970, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: duion_plaster_stucco_01_D_exp.png_cfbc8e_pro_2353_exp.png
+    second: {fileID: 2100000, guid: 91289e5b90b99084d8d0bb0416cc8664, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: duion_plaster_stucco_01_D_exp.png_cfbc8e_pro_2901_exp.png
+    second: {fileID: 2100000, guid: ab6f6e56f4013674a92783a5c135a1a3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: duion_plaster_stucco_01_D_exp.png_cfbc8e_pro_6908_exp.png
+    second: {fileID: 2100000, guid: 15fef39f25168de4b8e3e03dce6f2708, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: overlay
+    second: {fileID: 2100000, guid: eb8f80b0d6fb2fe47919e3b824cd3233, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: paths_cycleway
+    second: {fileID: 2100000, guid: fe8b89b4f2d597749bbdd380fd338fbd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: paths_footway
+    second: {fileID: 2100000, guid: 2c1308b5def56db46b4a3b44d761d4a3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: paths_steps
+    second: {fileID: 2100000, guid: 1a2b62589af749640920ca1a1392eba8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pine bark
+    second: {fileID: 2100000, guid: b053e23bdeb75d14daece5b3bc723d39, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pine bark.001
+    second: {fileID: 2100000, guid: acd7affbec1913243ba5aaf6833be883, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pine foliage
+    second: {fileID: 2100000, guid: 20d9774e16760a04da0c801d1fa607b5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pine foliage.001
+    second: {fileID: 2100000, guid: 1af4356cac23fd04ca3fd5365d9fc4cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: railways
+    second: {fileID: 2100000, guid: c795bffb14ff2f04ba5657c6e735378f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: roads_pedestrian
+    second: {fileID: 2100000, guid: 2ea96169807128849a5838f87241be3a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: roads_primary
+    second: {fileID: 2100000, guid: 91a1e8f2757d73c4d9e36d2d07378555, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: roads_residential
+    second: {fileID: 2100000, guid: ffa721199fbb6f943afd5ffbb2652e5e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: roads_secondary
+    second: {fileID: 2100000, guid: c5f3bb58c1b6d804e978cfeeb3ecb0d3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: roads_service
+    second: {fileID: 2100000, guid: 003fc068210939748803b7d38393037b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: roads_tertiary
+    second: {fileID: 2100000, guid: 94dc9d8835ac32d4ca73866afefcc07a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: roads_track
+    second: {fileID: 2100000, guid: 37e965714aba16a408e838a780642ec4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: roads_unclassified
+    second: {fileID: 2100000, guid: 52d735091e881e24d946af3d57cae73e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: water
+    second: {fileID: 2100000, guid: 798114a4fc650c64e931977312813709, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: baked_494c57_metal
+    second: {fileID: 2800000, guid: 3cdcaebdcb9637d46b205f3f6cdeeeb6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: baked_5e2a31_metal
+    second: {fileID: 2800000, guid: bd5b4b78fea997444afc379bd7a050a6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: baked_7b422f_brick
+    second: {fileID: 2800000, guid: 6734fd89975eb1d459030c738dc8b065, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: baked_818b8f_metal
+    second: {fileID: 2800000, guid: f8c037e0a911a4246983c0fc465dfc9f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: baked_8a5c4d_roof_tiles
+    second: {fileID: 2800000, guid: ca75f1145a769044aa3b30719246a73c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: baked_976c6b_brick
+    second: {fileID: 2800000, guid: 49cc7b3b12df94544894982323c88aa5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: baked_a3865f_plaster
+    second: {fileID: 2800000, guid: 24f17869a0080344ebf345277e3af051, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: baked_a6653f_roof_tiles
+    second: {fileID: 2800000, guid: df55874db8a25554fb9fa772b94aa60f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: baked_afafaf_concrete
+    second: {fileID: 2800000, guid: e4982fce7efdee7469a7f6de04d0852d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: baked_b2b2a6_concrete
+    second: {fileID: 2800000, guid: 19c705a8c359bcc41b561e1d29a047f1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: baked_b8a594_plaster
+    second: {fileID: 2800000, guid: 23c50a997fe5ae34db1ef2f24bd4eff0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: baked_c5765d_brick
+    second: {fileID: 2800000, guid: 948d9e2338d579c49ae6361d32f8f710, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: baked_c57a63_roof_tiles
+    second: {fileID: 2800000, guid: b4c97df606b7a12418db00f4b8537b90, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: baked_c8c2b6_concrete
+    second: {fileID: 2800000, guid: 0a30f093725a80b4e9e6611752865753, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: baked_cc0textures_bricks11_col_exp.jpg_7b422f_pro_2157_exp
+    second: {fileID: 2800000, guid: 454da5888468dfd44821aecaef3289d2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: baked_cc0textures_bricks11_col_exp.jpg_7b422f_pro_2161_exp
+    second: {fileID: 2800000, guid: 000ec596358f1284d96ed1086e7547e8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: baked_cc0textures_bricks11_col_exp.jpg_7b422f_pro_2353_exp
+    second: {fileID: 2800000, guid: a57ac3370a22fc749968dbb8f378d7af, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: baked_cc0textures_bricks11_col_exp.jpg_7b422f_pro_2901_exp
+    second: {fileID: 2800000, guid: 5a4bb303887c04e40ade5298f89c892f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: baked_cc0textures_bricks11_col_exp.jpg_7b422f_pro_6908_exp
+    second: {fileID: 2800000, guid: cbbcc0d5e7670a8478178932e048dbe5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: baked_cc0textures_bricks11_col_exp.jpg_976c6b_pro_2157_exp
+    second: {fileID: 2800000, guid: 91aad83560631854db069e0aef85fef2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: baked_cc0textures_bricks11_col_exp.jpg_976c6b_pro_2161_exp
+    second: {fileID: 2800000, guid: 1d13cbbdf8155b641b5ce7a19f28bf27, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: baked_cc0textures_bricks11_col_exp.jpg_976c6b_pro_2353_exp
+    second: {fileID: 2800000, guid: ad79c631eb0b8214ea8d260bdddfbca4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: baked_cc0textures_bricks11_col_exp.jpg_976c6b_pro_2901_exp
+    second: {fileID: 2800000, guid: 0279ef12cc9d9b94982be229f702e6db, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: baked_cc0textures_bricks11_col_exp.jpg_976c6b_pro_6908_exp
+    second: {fileID: 2800000, guid: b1874a547bcc90a4385c4eb607651664, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: baked_cc0textures_bricks11_col_exp.jpg_c5765d_pro_2157_exp
+    second: {fileID: 2800000, guid: fa9d1f563cbfbfa469a79ba582e55060, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: baked_cc0textures_bricks11_col_exp.jpg_c5765d_pro_2161_exp
+    second: {fileID: 2800000, guid: 097361e3128363c4da71a7b1039b45d4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: baked_cc0textures_bricks11_col_exp.jpg_c5765d_pro_2353_exp
+    second: {fileID: 2800000, guid: 7b918ee0534d61044b3c03002465ef95, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: baked_cc0textures_bricks11_col_exp.jpg_c5765d_pro_2901_exp
+    second: {fileID: 2800000, guid: 838233e08a18a86479a599ae79c2ff54, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: baked_cc0textures_bricks11_col_exp.jpg_c5765d_pro_6908_exp
+    second: {fileID: 2800000, guid: 64aea56349b062b47b733b88798e77b4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: baked_cfbc8e_plaster
+    second: {fileID: 2800000, guid: edcc4a62ee07c204ea9e521b5531cb8a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: baked_duion_bricks_classic_01_D_exp.png_7b422f_pro_2157_exp
+    second: {fileID: 2800000, guid: 8a5f357369cd6774ca8058356883723d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: baked_duion_bricks_classic_01_D_exp.png_7b422f_pro_2161_exp
+    second: {fileID: 2800000, guid: a0ed5a54ff553c643aaaae0117e73196, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: baked_duion_bricks_classic_01_D_exp.png_7b422f_pro_2353_exp
+    second: {fileID: 2800000, guid: 5553184f3cb924a45af41a4ff0bb3f72, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: baked_duion_bricks_classic_01_D_exp.png_7b422f_pro_2901_exp
+    second: {fileID: 2800000, guid: 258dd04d3aa8c0b4a8d9f31eeae10744, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: baked_duion_bricks_classic_01_D_exp.png_7b422f_pro_6908_exp
+    second: {fileID: 2800000, guid: 24cf1a5317da44a4ca4b0b74b8bccce7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: baked_duion_bricks_classic_01_D_exp.png_976c6b_pro_2157_exp
+    second: {fileID: 2800000, guid: 3758a999911b201409dae7b66a1ce286, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: baked_duion_bricks_classic_01_D_exp.png_976c6b_pro_2161_exp
+    second: {fileID: 2800000, guid: f1a3e91b83815fe43aafb240b61d7d7a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: baked_duion_bricks_classic_01_D_exp.png_976c6b_pro_2353_exp
+    second: {fileID: 2800000, guid: 3454c5a3f7dee4d4cb29303e82b4a34c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: baked_duion_bricks_classic_01_D_exp.png_976c6b_pro_2901_exp
+    second: {fileID: 2800000, guid: f915531e72c25bf4f98663c23332d0bb, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: baked_duion_bricks_classic_01_D_exp.png_976c6b_pro_6908_exp
+    second: {fileID: 2800000, guid: 16ae7863b29f06e4daf26f5a9d92488e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: baked_duion_bricks_classic_01_D_exp.png_c5765d_pro_2157_exp
+    second: {fileID: 2800000, guid: 749f15eaa90c36447b6b2a57aa210d3c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: baked_duion_bricks_classic_01_D_exp.png_c5765d_pro_2161_exp
+    second: {fileID: 2800000, guid: 950e489795a850e4587b56316ce50287, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: baked_duion_bricks_classic_01_D_exp.png_c5765d_pro_2353_exp
+    second: {fileID: 2800000, guid: 81b1b83c7f3c1a04d96b551963d964d1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: baked_duion_bricks_classic_01_D_exp.png_c5765d_pro_2901_exp
+    second: {fileID: 2800000, guid: 5efb16182645053469e28c2afbd66109, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: baked_duion_bricks_classic_01_D_exp.png_c5765d_pro_6908_exp
+    second: {fileID: 2800000, guid: 13719b7b5941a8d41902f6be8b5a27a2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: baked_duion_bricks_classic_02_D_exp.png_7b422f_pro_2157_exp
+    second: {fileID: 2800000, guid: 1342585bfc2671441a1c8d1e260cfcc2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: baked_duion_bricks_classic_02_D_exp.png_7b422f_pro_2161_exp
+    second: {fileID: 2800000, guid: 5f60c88393720de44863791060cd406d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: baked_duion_bricks_classic_02_D_exp.png_7b422f_pro_2353_exp
+    second: {fileID: 2800000, guid: 26b8630f57dbe1a4e9a1083913a5510b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: baked_duion_bricks_classic_02_D_exp.png_7b422f_pro_2901_exp
+    second: {fileID: 2800000, guid: 9619cb113bcf48746bb0e98e50674b34, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: baked_duion_bricks_classic_02_D_exp.png_7b422f_pro_6908_exp
+    second: {fileID: 2800000, guid: 48b1cfe20e7cfd44691d35eb23461433, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: baked_duion_bricks_classic_02_D_exp.png_976c6b_pro_2157_exp
+    second: {fileID: 2800000, guid: 6bf3eb5d7a565334a8d9f92c95662331, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: baked_duion_bricks_classic_02_D_exp.png_976c6b_pro_2161_exp
+    second: {fileID: 2800000, guid: 6d014891695acc4489aeafa8ad3739cc, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: baked_duion_bricks_classic_02_D_exp.png_976c6b_pro_2353_exp
+    second: {fileID: 2800000, guid: 50545ee182add6847ab31694d17bea6a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: baked_duion_bricks_classic_02_D_exp.png_976c6b_pro_2901_exp
+    second: {fileID: 2800000, guid: fef3ffa2a7506d142b5dccfd03862a8c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: baked_duion_bricks_classic_02_D_exp.png_976c6b_pro_6908_exp
+    second: {fileID: 2800000, guid: 960b12db8c1adc84ea578a589398bda3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: baked_duion_bricks_classic_02_D_exp.png_c5765d_pro_2157_exp
+    second: {fileID: 2800000, guid: 2393daebe7d275441afe9b87bbb126c3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: baked_duion_bricks_classic_02_D_exp.png_c5765d_pro_2161_exp
+    second: {fileID: 2800000, guid: 707779d51a59ba842aa89013e3446e2b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: baked_duion_bricks_classic_02_D_exp.png_c5765d_pro_2353_exp
+    second: {fileID: 2800000, guid: 5ed69e06ad918404fa0edad849e9edf4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: baked_duion_bricks_classic_02_D_exp.png_c5765d_pro_2901_exp
+    second: {fileID: 2800000, guid: c45f95be221c06d47a9ce3ee2e18bcc6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: baked_duion_bricks_classic_02_D_exp.png_c5765d_pro_6908_exp
+    second: {fileID: 2800000, guid: 9b66a0d521704f2499c016222f124fc6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: baked_duion_plaster_sprinkled_01_D_exp.png_a3865f_pro_2157_exp
+    second: {fileID: 2800000, guid: c78c209b368e44b4c86300d18ed67bbd, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: baked_duion_plaster_sprinkled_01_D_exp.png_a3865f_pro_2161_exp
+    second: {fileID: 2800000, guid: 8ecbd05ecd7e4674c9523164367de39c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: baked_duion_plaster_sprinkled_01_D_exp.png_a3865f_pro_2353_exp
+    second: {fileID: 2800000, guid: 575cc41e7f7cb8c44a57a099eb8bd29d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: baked_duion_plaster_sprinkled_01_D_exp.png_a3865f_pro_2901_exp
+    second: {fileID: 2800000, guid: 34a08d21319eb1241bc5729b93b3d8f5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: baked_duion_plaster_sprinkled_01_D_exp.png_a3865f_pro_6908_exp
+    second: {fileID: 2800000, guid: e29d99e2a68a9c048b65bed663beaf46, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: baked_duion_plaster_sprinkled_01_D_exp.png_b8a594_pro_2157_exp
+    second: {fileID: 2800000, guid: 211107c53d06948418009d01c8c0403c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: baked_duion_plaster_sprinkled_01_D_exp.png_b8a594_pro_2161_exp
+    second: {fileID: 2800000, guid: 2529f43265ea510468b1a086b72bd07d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: baked_duion_plaster_sprinkled_01_D_exp.png_b8a594_pro_2353_exp
+    second: {fileID: 2800000, guid: 50d8c74de9194c642b0900c50e59e5bd, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: baked_duion_plaster_sprinkled_01_D_exp.png_b8a594_pro_2901_exp
+    second: {fileID: 2800000, guid: a489d1e91d4e48d4aa27063519839dc0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: baked_duion_plaster_sprinkled_01_D_exp.png_b8a594_pro_6908_exp
+    second: {fileID: 2800000, guid: 5a1c5af9c47a56b40a2ced45230511ba, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: baked_duion_plaster_sprinkled_01_D_exp.png_cfbc8e_pro_2157_exp
+    second: {fileID: 2800000, guid: 64afb0204a732b24ca2b7bffe0dd6431, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: baked_duion_plaster_sprinkled_01_D_exp.png_cfbc8e_pro_2161_exp
+    second: {fileID: 2800000, guid: f3a70dc80d617d84aa25f1522970672c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: baked_duion_plaster_sprinkled_01_D_exp.png_cfbc8e_pro_2353_exp
+    second: {fileID: 2800000, guid: 389d3b3f1f1f1fb48bb82ba5f3306d69, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: baked_duion_plaster_sprinkled_01_D_exp.png_cfbc8e_pro_2901_exp
+    second: {fileID: 2800000, guid: 73b1cf45d92c45f4c8c069a2b06aacad, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: baked_duion_plaster_sprinkled_01_D_exp.png_cfbc8e_pro_6908_exp
+    second: {fileID: 2800000, guid: 6941957f941e9b148abc979efe04a75a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: baked_duion_plaster_stucco_01_D_exp.png_a3865f_pro_2157_exp
+    second: {fileID: 2800000, guid: 41c678787bbe7834b917fae626f9295a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: baked_duion_plaster_stucco_01_D_exp.png_a3865f_pro_2161_exp
+    second: {fileID: 2800000, guid: 71c7bb8de8581c6489c2b796707d23ae, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: baked_duion_plaster_stucco_01_D_exp.png_a3865f_pro_2353_exp
+    second: {fileID: 2800000, guid: b4a66400c762d794882e92841543a3f0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: baked_duion_plaster_stucco_01_D_exp.png_a3865f_pro_2901_exp
+    second: {fileID: 2800000, guid: f183b38866e34bb44a2e71b0445a2727, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: baked_duion_plaster_stucco_01_D_exp.png_a3865f_pro_6908_exp
+    second: {fileID: 2800000, guid: 1cbb401a82078f04cb60042b5d4b0d57, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: baked_duion_plaster_stucco_01_D_exp.png_b8a594_pro_2157_exp
+    second: {fileID: 2800000, guid: 415dbb28c89eb0a49a8fca4eb8849212, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: baked_duion_plaster_stucco_01_D_exp.png_b8a594_pro_2161_exp
+    second: {fileID: 2800000, guid: 1ddffc3cd3a12354f92512584cd67f52, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: baked_duion_plaster_stucco_01_D_exp.png_b8a594_pro_2353_exp
+    second: {fileID: 2800000, guid: 61eec7878ca639442bcfb77c2d5262ad, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: baked_duion_plaster_stucco_01_D_exp.png_b8a594_pro_2901_exp
+    second: {fileID: 2800000, guid: 6624f836c36df914e8729d12b5e3ba80, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: baked_duion_plaster_stucco_01_D_exp.png_b8a594_pro_6908_exp
+    second: {fileID: 2800000, guid: f01be6a9c4c62ea488ef012da11a21ec, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: baked_duion_plaster_stucco_01_D_exp.png_cfbc8e_pro_2157_exp
+    second: {fileID: 2800000, guid: dd27ff63a2fa7e044bf3cbdcfbd865f6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: baked_duion_plaster_stucco_01_D_exp.png_cfbc8e_pro_2161_exp
+    second: {fileID: 2800000, guid: 04d0feec399f3ab4f9fc39a9e8e87693, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: baked_duion_plaster_stucco_01_D_exp.png_cfbc8e_pro_2353_exp
+    second: {fileID: 2800000, guid: 1407810b4a697d142a2cf16d4da7d971, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: baked_duion_plaster_stucco_01_D_exp.png_cfbc8e_pro_2901_exp
+    second: {fileID: 2800000, guid: 1b0ca471166874a40bf3d5c1869246e5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: baked_duion_plaster_stucco_01_D_exp.png_cfbc8e_pro_6908_exp
+    second: {fileID: 2800000, guid: 255d4e31fc0f4f040b77ed709b299c11, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: pine_seamless_done
+    second: {fileID: 2800000, guid: 1bf21068923a8bd468b063c74163e17f, type: 3}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
