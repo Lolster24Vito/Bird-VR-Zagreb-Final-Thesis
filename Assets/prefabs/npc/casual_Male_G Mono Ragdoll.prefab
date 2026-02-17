@@ -141,7 +141,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 50c8fe73844fb0a42bdb72b9873224e6,
         type: 3}
       propertyPath: m_Name
-      value: casual_Male_G
+      value: casual_Male_G Mono Ragdoll
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 50c8fe73844fb0a42bdb72b9873224e6,
         type: 3}
@@ -571,6 +571,17 @@ MonoBehaviour:
   SpawnGroup: 1
   tile: {x: -1, y: -1}
   pathfindingCooldown: 1
+  gravityForce: -9.81
+  gravityMultiplier: 1
+  groundCheckDistance: 1.5
+  groundCheckOffset: 0.2
+  groundLayerMask:
+    serializedVersion: 2
+    m_Bits: 1
+  gravityDistanceThreshold: 550
+  gravityUpdateInterval: 0.1
+  enableTileLOD: 1
+  activeTileRadius: 2
 --- !u!136 &910008826159613996
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -620,6 +631,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   rigGameObject: {fileID: 6237063083267238998}
+  hipsBone: {fileID: 0}
 --- !u!1 &701826835878843652 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 969392336405013599, guid: 50c8fe73844fb0a42bdb72b9873224e6,
