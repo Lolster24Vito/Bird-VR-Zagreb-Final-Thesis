@@ -252,4 +252,4 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   lifeSeconds: 22
-  impactForce: 30
+  impactForce: 800

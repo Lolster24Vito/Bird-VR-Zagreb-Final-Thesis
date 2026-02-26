@@ -3929,7 +3929,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cb90068b0d2ed50429af6b59e0d86b2c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  loadQuestState: 1
+  loadQuestState: 0
 --- !u!1 &419149058
 GameObject:
   m_ObjectHideFlags: 0
@@ -4726,6 +4726,7 @@ MonoBehaviour:
   RightControllerRayInteractor: {fileID: 238178131}
   LeftControllerPokeInteractor: {fileID: 1802327527}
   RightControllerPokeInteractor: {fileID: 386739539}
+  isMainMenu: 0
 --- !u!1 &574032372
 GameObject:
   m_ObjectHideFlags: 0
@@ -6471,7 +6472,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 0.000091552734, y: 0.08223109}
+  m_AnchoredPosition: {x: 0.000091552734, y: 0.06709437}
   m_SizeDelta: {x: 0, y: 600}
   m_Pivot: {x: 0.5, y: 1}
 --- !u!114 &791076130

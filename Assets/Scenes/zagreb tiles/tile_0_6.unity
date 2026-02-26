@@ -241,7 +241,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: d37eee61261e9574cb21c3b62431044e,
         type: 3}
       propertyPath: m_Name
-      value: tile_0_6 (1)
+      value: tile_0_6
       objectReference: {fileID: 0}
     - target: {fileID: 6477839399757830963, guid: d37eee61261e9574cb21c3b62431044e,
         type: 3}
@@ -259,15 +259,15 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: d37eee61261e9574cb21c3b62431044e,
         type: 3}
       insertIndex: -1
-      addedObject: {fileID: 1369262540}
+      addedObject: {fileID: 1369262544}
     - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: d37eee61261e9574cb21c3b62431044e,
         type: 3}
       insertIndex: -1
-      addedObject: {fileID: 1369262539}
+      addedObject: {fileID: 1369262543}
     - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: d37eee61261e9574cb21c3b62431044e,
         type: 3}
       insertIndex: -1
-      addedObject: {fileID: 1369262538}
+      addedObject: {fileID: 1369262542}
     - targetCorrespondingSourceObject: {fileID: -8893850887951451772, guid: d37eee61261e9574cb21c3b62431044e,
         type: 3}
       insertIndex: -1
@@ -397,7 +397,19 @@ GameObject:
     type: 3}
   m_PrefabInstance: {fileID: 544859909}
   m_PrefabAsset: {fileID: 0}
---- !u!114 &1369262538
+--- !u!114 &1369262541
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1369262537}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0065c281caee5ba4e8edffbd0144fee3, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &1369262542
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -409,11 +421,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 162f99c3df8154242b75e65392d9a5d3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  toSpawnNumber: 4
   toSpawn: {fileID: 6602172994713183444, guid: b2c5d8e56880bfc46b574f2eccf32faa, type: 3}
   entityType: 1
   currentTile: {x: 6, y: 0}
---- !u!114 &1369262539
+  activeAgents: []
+--- !u!114 &1369262543
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -425,11 +437,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 162f99c3df8154242b75e65392d9a5d3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  toSpawnNumber: 4
   toSpawn: {fileID: 580950237208644618, guid: 4ddda1cbd89e604438234bed34919d75, type: 3}
   entityType: 0
   currentTile: {x: 6, y: 0}
---- !u!114 &1369262540
+  activeAgents: []
+--- !u!114 &1369262544
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -451,21 +463,10 @@ MonoBehaviour:
   - {fileID: 1786988156}
   - {fileID: 86886419}
   spawners:
-  - {fileID: 1369262539}
-  - {fileID: 1369262538}
+  - {fileID: 1369262543}
+  - {fileID: 1369262542}
   tile: {x: 6, y: 0}
---- !u!114 &1369262541
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1369262537}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 0065c281caee5ba4e8edffbd0144fee3, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
+  lod0RadiusTiles: 0
 --- !u!114 &1745925455
 MonoBehaviour:
   m_ObjectHideFlags: 0

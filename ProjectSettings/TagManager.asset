@@ -21,6 +21,7 @@ TagManager:
   - QDSUITextInvertedColor
   - QDSUITextSecondaryInvertedColor
   - Car
+  - Decal
   layers:
   - Default
   - TransparentFX
