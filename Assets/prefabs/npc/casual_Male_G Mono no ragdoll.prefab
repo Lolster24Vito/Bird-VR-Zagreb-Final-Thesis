@@ -1138,8 +1138,8 @@ MonoBehaviour:
   pathfindingCooldown: 1
   gravityForce: -9.81
   gravityMultiplier: 1
-  groundCheckDistance: 9
-  groundCheckOffset: 0.2
+  groundCheckDistance: 300
+  groundCheckOffset: 150
   groundLayerMask:
     serializedVersion: 2
     m_Bits: 1
@@ -1147,6 +1147,7 @@ MonoBehaviour:
   gravityUpdateInterval: 0.1
   enableTileLOD: 1
   activeTileRadius: 2
+  groundClampOffset: 0.1
 --- !u!136 &910008826159613996
 CapsuleCollider:
   m_ObjectHideFlags: 0
