@@ -668,6 +668,18 @@ MonoBehaviour:
   SpawnGroup: 1
   tile: {x: -1, y: -1}
   pathfindingCooldown: 1
+  gravityForce: -9.81
+  gravityMultiplier: 1
+  groundCheckDistance: 8
+  groundCheckOffset: 0.2
+  groundLayerMask:
+    serializedVersion: 2
+    m_Bits: 1
+  gravityDistanceThreshold: 550
+  gravityUpdateInterval: 0.1
+  enableTileLOD: 1
+  activeTileRadius: 2
+  groundClampOffset: 0.1
 --- !u!65 &2676024169786679480
 BoxCollider:
   m_ObjectHideFlags: 0

@@ -5,7 +5,10 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
+    path: Assets/Scenes/zagreb tiles/playable area/mainmenu PlayScene2Perfromant.unity
+    guid: 9b0126b3ec0fd244db3c4f4eca82d685
+  - enabled: 0
     path: Assets/Scenes/zagreb tiles/playable area/PlayScene2Perfromant.unity
     guid: 8aac8e6fedee54047bf037cdd4678c89
   - enabled: 0

@@ -268,7 +268,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 4aee854f7014de44c8a47ad399d43034,
         type: 3}
       propertyPath: m_Name
-      value: tile_1_6 (1)
+      value: tile_1_6
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -281,15 +281,15 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: 4aee854f7014de44c8a47ad399d43034,
         type: 3}
       insertIndex: -1
-      addedObject: {fileID: 504929213}
+      addedObject: {fileID: 504929217}
     - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: 4aee854f7014de44c8a47ad399d43034,
         type: 3}
       insertIndex: -1
-      addedObject: {fileID: 504929212}
+      addedObject: {fileID: 504929216}
     - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: 4aee854f7014de44c8a47ad399d43034,
         type: 3}
       insertIndex: -1
-      addedObject: {fileID: 504929211}
+      addedObject: {fileID: 504929215}
     - targetCorrespondingSourceObject: {fileID: -9167783124240319334, guid: 4aee854f7014de44c8a47ad399d43034,
         type: 3}
       insertIndex: -1
@@ -349,7 +349,19 @@ GameObject:
     type: 3}
   m_PrefabInstance: {fileID: 504929209}
   m_PrefabAsset: {fileID: 0}
---- !u!114 &504929211
+--- !u!114 &504929214
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 504929210}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0065c281caee5ba4e8edffbd0144fee3, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &504929215
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -364,7 +376,8 @@ MonoBehaviour:
   toSpawn: {fileID: 6602172994713183444, guid: b2c5d8e56880bfc46b574f2eccf32faa, type: 3}
   entityType: 1
   currentTile: {x: 6, y: 1}
---- !u!114 &504929212
+  activeAgents: []
+--- !u!114 &504929216
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -379,7 +392,8 @@ MonoBehaviour:
   toSpawn: {fileID: 580950237208644618, guid: 4ddda1cbd89e604438234bed34919d75, type: 3}
   entityType: 0
   currentTile: {x: 6, y: 1}
---- !u!114 &504929213
+  activeAgents: []
+--- !u!114 &504929217
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -392,7 +406,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   meshToWorldPoints:
-  - {fileID: 1310686803}
   - {fileID: 816757639}
   - {fileID: 1310686801}
   - {fileID: 1811336383}
@@ -404,21 +417,10 @@ MonoBehaviour:
   - {fileID: 689573951}
   - {fileID: 482508939}
   spawners:
-  - {fileID: 504929212}
-  - {fileID: 504929211}
+  - {fileID: 504929216}
+  - {fileID: 504929215}
   tile: {x: 6, y: 1}
---- !u!114 &504929214
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 504929210}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 0065c281caee5ba4e8edffbd0144fee3, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
+  lod0RadiusTiles: 0
 --- !u!114 &689573951
 MonoBehaviour:
   m_ObjectHideFlags: 0
