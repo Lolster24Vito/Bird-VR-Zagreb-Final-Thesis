@@ -650,7 +650,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   entityType: 1
-  currentRightOffset: 0
+  currentRightOffset: 2
   localRightDirectionOffsetStrength: -8
   localRightOffsetNpcCollision: 20
   useCharacterController: 0
@@ -670,8 +670,8 @@ MonoBehaviour:
   pathfindingCooldown: 1
   gravityForce: -9.81
   gravityMultiplier: 1
-  groundCheckDistance: 8
-  groundCheckOffset: 0.2
+  groundCheckDistance: 200
+  groundCheckOffset: 300
   groundLayerMask:
     serializedVersion: 2
     m_Bits: 1

@@ -251,5 +251,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 79a23513c2be7d5459c1c4f16e5317a0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  lifeSeconds: 22
+  lifeSeconds: 60
   impactForce: 800

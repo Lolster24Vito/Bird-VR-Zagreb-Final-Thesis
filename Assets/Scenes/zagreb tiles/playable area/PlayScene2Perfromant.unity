@@ -3316,11 +3316,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   tileManager: {fileID: 383746357}
-  checkInterval: 10
+  checkInterval: 7
   targetFPS: 72
   targetFPSRange: 15
   minOpenScenes: 3
-  criticalMinScenes: 3
+  criticalMinScenes: 2
   maxOpenScenesLimit: 6
   autoStablizeOpenScenes: 1
 --- !u!114 &383746360
@@ -3930,7 +3930,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cb90068b0d2ed50429af6b59e0d86b2c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  loadQuestState: 0
+  loadQuestState: 1
 --- !u!1 &419149058
 GameObject:
   m_ObjectHideFlags: 0
@@ -6441,7 +6441,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 0.000091552734, y: 0.06977992}
+  m_AnchoredPosition: {x: 0.000091552734, y: 0.08516078}
   m_SizeDelta: {x: 0, y: 600}
   m_Pivot: {x: 0.5, y: 1}
 --- !u!114 &791076130
@@ -9125,14 +9125,14 @@ MonoBehaviour:
     m_SubObjectName: 
     m_SubObjectType: 
     m_EditorAssetChanged: 0
-  pedestrianPoolDefaultCapacity: 20
+  pedestrianPoolDefaultCapacity: 60
   pedestrianPoolMaxSize: 50
   carRef:
     m_AssetGUID: b2c5d8e56880bfc46b574f2eccf32faa
     m_SubObjectName: 
     m_SubObjectType: 
     m_EditorAssetChanged: 0
-  carPoolDefaultCapacity: 20
+  carPoolDefaultCapacity: 60
   carPoolMaxSize: 50
   ragdollRef:
     m_AssetGUID: 8577d4ba716050747b5887ca7da6d662
