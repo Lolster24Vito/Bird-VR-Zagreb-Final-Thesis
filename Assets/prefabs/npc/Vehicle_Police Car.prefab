@@ -670,8 +670,8 @@ MonoBehaviour:
   pathfindingCooldown: 1
   gravityForce: -9.81
   gravityMultiplier: 1
-  groundCheckDistance: 200
-  groundCheckOffset: 300
+  groundCheckDistance: 300
+  groundCheckOffset: 150
   groundLayerMask:
     serializedVersion: 2
     m_Bits: 1
