@@ -16,7 +16,7 @@ lets see
 -> END
 
 = canStart
-Will you collect 5 coins and bring them to my friend over there?
+Will you collect 5 loaves of bread and bring them to my friend over there?
 * [No]
     Oh, ok then. Come back if you change your mind.
 * [Yes]

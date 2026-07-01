@@ -14,7 +14,7 @@ GameObject:
   - component: {fileID: 7799406960025425256}
   - component: {fileID: 5769075743142033735}
   m_Layer: 0
-  m_Name: Clouds simple offical version
+  m_Name: Clouds simple offical version FAILED due to showing in ui
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
