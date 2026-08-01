@@ -4081,6 +4081,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   LeftControllerRayInteractor: {fileID: 286786459}
   RightControllerRayInteractor: {fileID: 238178131}
+  sharedCanvasTransform: {fileID: 1984090303}
+  playerCamera: {fileID: 4053722080220641063}
   isMainMenu: 0
 --- !u!1 &574032372
 GameObject:
@@ -5529,6 +5531,37 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 2087789344}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &721041735
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 721041736}
+  m_Layer: 0
+  m_Name: UI anchor
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &721041736
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 721041735}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: -0.3, z: 1.5}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 4053722080220641063}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &735068463 stripped
 MonoBehaviour:
   m_CorrespondingSourceObject: {fileID: 7885107518003317472, guid: fbfc588a949bb1a42b20e5bddc4cf8cf,
@@ -5665,7 +5698,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 0.000091552734, y: 0.07417445}
+  m_AnchoredPosition: {x: 0.000091552734, y: 0.05928187}
   m_SizeDelta: {x: 0, y: 600}
   m_Pivot: {x: 0.5, y: 1}
 --- !u!114 &791076130
@@ -11479,6 +11512,12 @@ Transform:
   m_Children: []
   m_Father: {fileID: 286786460}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1633651531 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 2086952759084668422, guid: 96a0d1a0a8ba3a04d9cbd8aee67aa2e3,
+    type: 3}
+  m_PrefabInstance: {fileID: 1861769677}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1653966016
 GameObject:
   m_ObjectHideFlags: 0
@@ -21267,6 +21306,31 @@ PrefabInstance:
       propertyPath: m_AnchoredPosition.y
       value: -24
       objectReference: {fileID: 0}
+    - target: {fileID: 8266073909922361822, guid: 96a0d1a0a8ba3a04d9cbd8aee67aa2e3,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.9999505
+      objectReference: {fileID: 0}
+    - target: {fileID: 8266073909922361822, guid: 96a0d1a0a8ba3a04d9cbd8aee67aa2e3,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8266073909922361822, guid: 96a0d1a0a8ba3a04d9cbd8aee67aa2e3,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.009948241
+      objectReference: {fileID: 0}
+    - target: {fileID: 8266073909922361822, guid: 96a0d1a0a8ba3a04d9cbd8aee67aa2e3,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8266073909922361822, guid: 96a0d1a0a8ba3a04d9cbd8aee67aa2e3,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: -1.14
+      objectReference: {fileID: 0}
     - target: {fileID: 8284968534335232000, guid: 96a0d1a0a8ba3a04d9cbd8aee67aa2e3,
         type: 3}
       propertyPath: m_AnchorMax.y
@@ -22177,6 +22241,10 @@ PrefabInstance:
       insertIndex: -1
       addedObject: {fileID: 897537686434275502}
     m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 2086952759084668422, guid: 96a0d1a0a8ba3a04d9cbd8aee67aa2e3,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1984090304}
     - targetCorrespondingSourceObject: {fileID: 1880264587633630200, guid: 96a0d1a0a8ba3a04d9cbd8aee67aa2e3,
         type: 3}
       insertIndex: -1
@@ -22678,7 +22746,7 @@ MonoBehaviour:
   questStatusText: {fileID: 315276229}
   breadRewardsText: {fileID: 450422561}
   currentBreadAmountText: {fileID: 1555378042}
-  follow: {fileID: 8019259874614993227}
+  follow: {fileID: 0}
   playerCamera: {fileID: 4053722080220641063}
 --- !u!114 &1931494427
 MonoBehaviour:
@@ -22848,6 +22916,18 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 1861769677}
   m_PrefabAsset: {fileID: 0}
+--- !u!114 &1984090304
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1633651531}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0065c281caee5ba4e8edffbd0144fee3, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1992030940
 GameObject:
   m_ObjectHideFlags: 0
@@ -27215,7 +27295,6 @@ GameObject:
   m_Component:
   - component: {fileID: 8019259874614993224}
   - component: {fileID: 8019259874614993226}
-  - component: {fileID: 8019259874614993227}
   m_Layer: 0
   m_Name: Followbody
   m_TagString: Untagged
@@ -34798,6 +34877,10 @@ PrefabInstance:
         type: 3}
       insertIndex: -1
       addedObject: {fileID: 2032176591285178170}
+    - targetCorrespondingSourceObject: {fileID: 400002, guid: 126d619cf4daa52469682f85c1378b4a,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 721041736}
     - targetCorrespondingSourceObject: {fileID: 482130, guid: 126d619cf4daa52469682f85c1378b4a,
         type: 3}
       insertIndex: -1
@@ -38615,22 +38698,6 @@ MonoBehaviour:
   _transformsFollowingMe:
   - {fileID: 506288560}
   - {fileID: 1289182941}
-  isFollowing: 1
---- !u!114 &8019259874614993227
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1754011767104084963}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 2abeeb86ce35fb54199b04595619dc10, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  followOffset: {x: 1.24, y: 0, z: 0.55}
-  _transformsFollowingMe:
-  - {fileID: 1984090303}
   isFollowing: 1
 --- !u!4 &8032501421502447702
 Transform:
