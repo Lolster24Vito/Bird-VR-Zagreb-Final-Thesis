@@ -5689,6 +5689,31 @@ PrefabInstance:
       propertyPath: m_Enabled
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 7078397634015220056, guid: 6b196de96e7d16b4297c1980179ae439,
+        type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 648.2
+      objectReference: {fileID: 0}
+    - target: {fileID: 7078397634015220056, guid: 6b196de96e7d16b4297c1980179ae439,
+        type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 24.9
+      objectReference: {fileID: 0}
+    - target: {fileID: 7078397634015220056, guid: 6b196de96e7d16b4297c1980179ae439,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7078397634015220056, guid: 6b196de96e7d16b4297c1980179ae439,
+        type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 324.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7078397634015220056, guid: 6b196de96e7d16b4297c1980179ae439,
+        type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: -12.5
+      objectReference: {fileID: 0}
     - target: {fileID: 8688192856564850643, guid: 6b196de96e7d16b4297c1980179ae439,
         type: 3}
       propertyPath: m_Enabled
@@ -6731,6 +6756,7 @@ MonoBehaviour:
   gridSize: {x: 11, y: 11}
   tileScenePrefix: Assets/Scenes/zagreb tiles/tile_
   maxOpenScenes: 5
+  lookaheadOffset: 1200
   spawnDebugCube: {fileID: 8559872487584605160, guid: 307cab68991fa9e42b8ff4ba3f15ac3f,
     type: 3}
 --- !u!4 &383746358
@@ -6791,12 +6817,6 @@ MonoBehaviour:
   loadedTileColor: {r: 0, g: 0, b: 1, a: 0.3}
   playerTileColor: {r: 0, g: 1, b: 0, a: 0.5}
   neighborTileColor: {r: 1, g: 0.5, b: 0, a: 0.3}
---- !u!1 &386739539 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 1933587497558213157, guid: caf1104dfe6d01c4e9dabd59f18e535a,
-    type: 3}
-  m_PrefabInstance: {fileID: 7867141351000608991}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1 &386912129
 GameObject:
   m_ObjectHideFlags: 0
@@ -8433,8 +8453,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   LeftControllerRayInteractor: {fileID: 286786459}
   RightControllerRayInteractor: {fileID: 238178131}
-  LeftControllerPokeInteractor: {fileID: 1802327527}
-  RightControllerPokeInteractor: {fileID: 386739539}
   isMainMenu: 1
 --- !u!1 &559081159
 GameObject:
@@ -11086,6 +11104,7 @@ MonoBehaviour:
   flyingSlowLeftDetector: {fileID: 1507220908}
   flyingSlowRightDetector: {fileID: 1642275288}
   flapVelocity: 0
+  isOnFloor: 0
   flapStrentgh: 30
   flapSlowStrentgh: 12
   airDrag: 2
@@ -15579,6 +15598,7 @@ MonoBehaviour:
   _transformsFollowingMe:
   - {fileID: 44942333}
   - {fileID: 1855536323}
+  isFollowing: 1
 --- !u!1 &967822940
 GameObject:
   m_ObjectHideFlags: 0
@@ -16167,7 +16187,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   settingsPanel: {fileID: 233147457}
   mainSceneReference:
-    m_AssetGUID: 8aac8e6fedee54047bf037cdd4678c89
+    m_AssetGUID: 7bcf8c6a02347ec489233d88c48a3361
     m_SubObjectName: 
     m_SubObjectType: 
     m_EditorAssetChanged: 0
@@ -32261,8 +32281,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   LeftControllerRayInteractor: {fileID: 594830046}
   RightControllerRayInteractor: {fileID: 1658248593}
-  LeftControllerPokeInteractor: {fileID: 1655707162}
-  RightControllerPokeInteractor: {fileID: 1374019347}
   isMainMenu: 1
 --- !u!1001 &1336203089
 PrefabInstance:
@@ -32510,12 +32528,6 @@ PrefabInstance:
 --- !u!4 &1374019346 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 1933587497558213154, guid: caf1104dfe6d01c4e9dabd59f18e535a,
-    type: 3}
-  m_PrefabInstance: {fileID: 1374019345}
-  m_PrefabAsset: {fileID: 0}
---- !u!1 &1374019347 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 1933587497558213157, guid: caf1104dfe6d01c4e9dabd59f18e535a,
     type: 3}
   m_PrefabInstance: {fileID: 1374019345}
   m_PrefabAsset: {fileID: 0}
@@ -33572,6 +33584,7 @@ MonoBehaviour:
   flyingSlowLeftDetector: {fileID: 1992030942}
   flyingSlowRightDetector: {fileID: 108825667}
   flapVelocity: 0
+  isOnFloor: 0
   flapStrentgh: 30
   flapSlowStrentgh: 12
   airDrag: 2
@@ -37660,12 +37673,6 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 1655707160}
   m_PrefabAsset: {fileID: 0}
---- !u!1 &1655707162 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 1933587497558213157, guid: caf1104dfe6d01c4e9dabd59f18e535a,
-    type: 3}
-  m_PrefabInstance: {fileID: 1655707160}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1658248593
 GameObject:
   m_ObjectHideFlags: 0
@@ -40272,12 +40279,6 @@ MonoBehaviour:
       m_PersistentCalls:
         m_Calls: []
   _skeletalDrawContainers: []
---- !u!1 &1802327527 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 1933587497558213157, guid: caf1104dfe6d01c4e9dabd59f18e535a,
-    type: 3}
-  m_PrefabInstance: {fileID: 724660550584979786}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1813229516 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 2020693297267127855, guid: fe25d43ca68ba734e83215ee6b39e69b,
@@ -69294,6 +69295,7 @@ MonoBehaviour:
   _transformsFollowingMe:
   - {fileID: 506288560}
   - {fileID: 1289182941}
+  isFollowing: 1
 --- !u!114 &8019259874614993227
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -69309,6 +69311,7 @@ MonoBehaviour:
   followOffset: {x: 0.029, y: 0, z: 0.55}
   _transformsFollowingMe:
   - {fileID: 1984090303}
+  isFollowing: 1
 --- !u!4 &8032501421502447702
 Transform:
   m_ObjectHideFlags: 0

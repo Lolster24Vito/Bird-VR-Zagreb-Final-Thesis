@@ -16,17 +16,7 @@ MonoBehaviour:
   m_Data:
     m_SerializedData: []
   m_GUID: bea62bf569c4af34598e7b1048c5ebff
-  m_SerializeEntries:
-  - m_GUID: 8aac8e6fedee54047bf037cdd4678c89
-    m_Address: Assets/Scenes/zagreb tiles/playable area/PlayScene2Perfromant.unity
-    m_ReadOnly: 0
-    m_SerializedLabels: []
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 9b0126b3ec0fd244db3c4f4eca82d685
-    m_Address: Assets/Scenes/zagreb tiles/playable area/mainmenu PlayScene2Perfromant.unity
-    m_ReadOnly: 0
-    m_SerializedLabels: []
-    FlaggedDuringContentUpdateRestriction: 0
+  m_SerializeEntries: []
   m_ReadOnly: 0
   m_Settings: {fileID: 11400000, guid: 4b4190727b2300d42bb8276593418305, type: 2}
   m_SchemaSet:

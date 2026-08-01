@@ -988,7 +988,7 @@ MonoBehaviour:
   moveSpeed: 13
   rotationSpeed: 20
   stoppingDistance: 160
-  fireRate: 2
+  fireRate: 5
   shootPositionTr: {fileID: 8888400538495824920}
 --- !u!54 &1431821699619432997
 Rigidbody:
