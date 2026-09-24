@@ -10,9 +10,9 @@ Thank you!
 
 = default
 Hm? What do you want?
-* [Nothing, I guess.]
+* [Nothing]
     -> END
-* { CollectBreadQuestState == "CAN_FINISH" } [Here are some coins.]
+* { CollectBreadQuestState == "CAN_FINISH" } [Give bread]
     ~ FinishQuest(CollectBreadQuestId)
-    Oh? These coins are for me? Thank you!
+    Oh? These breads are for me? Thank you!
 -> END

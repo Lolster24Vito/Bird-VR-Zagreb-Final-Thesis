@@ -25,13 +25,13 @@ Will you collect 5 loaves of bread and bring them to my friend over there?
 - ->END
 
 = inProgress
-How is collecting those coins going?
+How is collecting those loaves of breads going?
 -> END
 
 = canFinish
-Oh? You collected the coins? Go give them to my friend over there and he'll give you a reward!
+Oh? You collected the all the loaves of bread? Go give them to my friend over there and he'll give you a reward!
 -> END
 
 = finished
-Thanks for collecting those coins!
+Thanks for collecting those breads!
 -> END

@@ -166,6 +166,8 @@ MonoBehaviour:
   toSpawn: {fileID: 6602172994713183444, guid: b2c5d8e56880bfc46b574f2eccf32faa, type: 3}
   entityType: 0
   currentTile: {x: 10, y: 0}
+  tileContainer: {fileID: 0}
+  activeAgents: []
 --- !u!114 &211936988
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -181,6 +183,8 @@ MonoBehaviour:
   toSpawn: {fileID: 580950237208644618, guid: 4ddda1cbd89e604438234bed34919d75, type: 3}
   entityType: 0
   currentTile: {x: 10, y: 0}
+  tileContainer: {fileID: 0}
+  activeAgents: []
 --- !u!114 &211936989
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -208,6 +212,7 @@ MonoBehaviour:
   - {fileID: 211936988}
   - {fileID: 211936987}
   tile: {x: 10, y: 0}
+  lod0RadiusTiles: 0
 --- !u!1001 &1320352730
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -285,6 +290,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: tile_0_10
+      objectReference: {fileID: 0}
+    - target: {fileID: 5064518240827987572, guid: b62e4dae3130820418a3381f16400a6b,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 43.05
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []

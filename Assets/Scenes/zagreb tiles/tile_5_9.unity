@@ -273,6 +273,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: tile_5_9
       objectReference: {fileID: 0}
+    - target: {fileID: 1766849129384023827, guid: 0cdd6a4aa57b7be4093338103af0dada,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []

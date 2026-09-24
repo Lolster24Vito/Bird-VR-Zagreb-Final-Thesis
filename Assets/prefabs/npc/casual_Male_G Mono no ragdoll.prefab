@@ -1127,7 +1127,7 @@ MonoBehaviour:
   path: []
   groupNextPath: []
   findingPath: 0
-  minDistanceForCompletion: 0.5
+  minDistanceForCompletion: 1
   moveSpeed: 7
   rotationSpeed: 7
   isEndPointOnSpawnSet: 0

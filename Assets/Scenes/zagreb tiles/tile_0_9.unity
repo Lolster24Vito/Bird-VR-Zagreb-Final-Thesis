@@ -166,6 +166,8 @@ MonoBehaviour:
   toSpawn: {fileID: 6602172994713183444, guid: b2c5d8e56880bfc46b574f2eccf32faa, type: 3}
   entityType: 1
   currentTile: {x: 9, y: 0}
+  tileContainer: {fileID: 0}
+  activeAgents: []
 --- !u!114 &1296789713
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -181,6 +183,8 @@ MonoBehaviour:
   toSpawn: {fileID: 580950237208644618, guid: 4ddda1cbd89e604438234bed34919d75, type: 3}
   entityType: 0
   currentTile: {x: 9, y: 0}
+  tileContainer: {fileID: 0}
+  activeAgents: []
 --- !u!114 &1296789714
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -209,6 +213,7 @@ MonoBehaviour:
   - {fileID: 1296789713}
   - {fileID: 1296789712}
   tile: {x: 9, y: 0}
+  lod0RadiusTiles: 0
 --- !u!114 &1694134602
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -323,6 +328,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -5687882359694347349, guid: 622952e277d76114298e69d5d93dd50c,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 39.05
       objectReference: {fileID: 0}
     - target: {fileID: -3879016229714527736, guid: 622952e277d76114298e69d5d93dd50c,
         type: 3}

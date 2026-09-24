@@ -290,7 +290,7 @@ MonoBehaviour:
   toSpawn: {fileID: 6602172994713183444, guid: b2c5d8e56880bfc46b574f2eccf32faa, type: 3}
   entityType: 1
   currentTile: {x: 4, y: 0}
-  useDOTSMovement: 1
+  tileContainer: {fileID: 0}
   activeAgents: []
 --- !u!114 &724494543
 MonoBehaviour:
@@ -307,7 +307,7 @@ MonoBehaviour:
   toSpawn: {fileID: 580950237208644618, guid: 4ddda1cbd89e604438234bed34919d75, type: 3}
   entityType: 0
   currentTile: {x: 4, y: 0}
-  useDOTSMovement: 1
+  tileContainer: {fileID: 0}
   activeAgents: []
 --- !u!114 &724494544
 MonoBehaviour:
@@ -322,7 +322,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   meshToWorldPoints:
-  - {fileID: 1596721127}
+  - {fileID: 0}
   - {fileID: 1596721126}
   - {fileID: 1596721125}
   - {fileID: 1596721124}
@@ -662,10 +662,6 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 8419018911767141777, guid: 12e524151c11a884c8dce946d99d4480,
         type: 3}
       insertIndex: -1
-      addedObject: {fileID: 1596721127}
-    - targetCorrespondingSourceObject: {fileID: 8419018911767141777, guid: 12e524151c11a884c8dce946d99d4480,
-        type: 3}
-      insertIndex: -1
       addedObject: {fileID: 1596721129}
     - targetCorrespondingSourceObject: {fileID: -3528181291799015, guid: 12e524151c11a884c8dce946d99d4480,
         type: 3}
@@ -823,20 +819,6 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1596721121}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 887fd93274d7366499b483922d1ae98f, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  type: 0
-  tile: {x: 4, y: 0}
---- !u!114 &1596721127
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1596721122}
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 887fd93274d7366499b483922d1ae98f, type: 3}

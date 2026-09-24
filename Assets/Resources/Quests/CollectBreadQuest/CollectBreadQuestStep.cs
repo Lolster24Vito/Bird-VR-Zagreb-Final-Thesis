@@ -6,13 +6,15 @@ public class CollectBreadQuestStep : QuestStep
 {
     private int breadCollected = 0;
     private int breadToComplete = 4;
-    //
-    private int breadAtStart=1;
+    
+   // private int breadAtStart=1;
     private void OnEnable()
     {
         GameEventsManager.Instance.breadEvents.onBreadCollected += BreadCollected;
-        breadAtStart = BreadManager.Instance.currentBreadAmount;
+        breadCollected = Mathf.Clamp(BreadManager.Instance.currentBreadAmount, 0, breadToComplete);
+        //    breadAtStart = BreadManager.Instance.currentBreadAmount;
         UpdateState();
+
     }
     private void OnDisable()
     {
@@ -29,7 +31,7 @@ public class CollectBreadQuestStep : QuestStep
         {
             FinishQuestStep();
         }*/
-        
+
         if (breadCollected < breadToComplete)
         {
             breadCollected++;
